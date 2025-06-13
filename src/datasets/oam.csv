@@ -1,0 +1,1192 @@
+Ano;Codigo;Unidade;Diretoria;Praca;Conta;ContaNiveisSuperiores;ContaDescricao;ContaTipo;ContaEstatisticaFiscal;EstatisticaFiscalContaOrdem;ContaGrupo;GrupoContaOrdem;ContaSubgrupo;SubgrupoContaOrdem;ContaFuncao;ValorDotacao;ValorEmpenhado;ValorLiquidado;ValorPago
+2024;683910012;MECIR;DIRAD;68 PORTO ALEGRE-RS;393903041;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903041 - RECEBIMENTO DE REMESSA E MOVIMENTAÇÃO DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;"Registra as despesas decorrentes do recebimento de remessa e movimentação de numerário, tais como: I) contratação de empresa transportadora e de mão-de-obra; II) manutenção de rádio-comunicadores utilizados nesses serviços; III) pedágios e multas; IV) guarda e manutenção de veículos utilizados nas operações exclusivas de meio circulante; V) transporte internacional de moedas comemorativas.  As despesas com a mão-de-obra (carregadores) permanente são registradas na conta 3939.02.02-8.";38090.77;38090.77;38090.77;38090.77
+2024;402510019;DEPIN;DIPOM;40 BRASILIA-DF;3359019;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+DESPESAS DE CORREÇÃO CAMBIAL SOBRE OUTROS PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";3359019 - ORCAMENTO DE AUTORIDADE MONETARIA - PRIMARIAS;Despesa;Primário;2;Área Externa;1;Correção cambial;3;;777039.66;777039.66;777039.66;777039.66
+2024;402510019;DEPIN;DIPOM;40 BRASILIA-DF;3985029;"DESPESAS COM ADMINISTRAÇÃO DE       ATIVOS POR TERCEIROS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";3985029 - TAXA DE SERVIÇOS DE CUSTÓDIA DE     ATIVOS FINANCEIROS EM MOEDAS        ESTRANGEIRAS;Despesa;Primário;2;Área Externa;1;Demais despesas;5;;10633000.0;10632490.0;8098646.19;8098646.19
+2024;402510019;DEPIN;DIPOM;40 BRASILIA-DF;399025026;"ÁREA DE OPERAÇÕES DAS RESERVAS INTERNACIONAIS
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399025026 - SERVIÇOS DE MANUTENÇÃO DE CONTA MOVIMENTO NO EXTERIOR;Despesa;Primário;2;Área Externa;1;Demais despesas;5;;503000.0;494938.0;228709.46;228709.46
+2024;402510019;DEPIN;DIPOM;40 BRASILIA-DF;399025040;"ÁREA DE OPERAÇÕES DAS RESERVAS INTERNACIONAIS
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399025040 - PROCESSAMENTO, TRANSPORTE E CUSTÓDIA DE OURO E OUTROS METAIS PRECIOSOS NO MERCADO EXTERNO;Despesa;Primário;2;Área Externa;1;Demais despesas;5;Registra as despesas no exterior com o ouro das reservas oficiais e outros metais preciosos, tais como: seguro, frete, fundição, análise, refino e custódia.;1150000.0;1073000.0;1049382.38;1049382.38
+2024;402510019;DEPIN;DIPOM;40 BRASILIA-DF;399025064;"ÁREA DE OPERAÇÕES DAS RESERVAS INTERNACIONAIS
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399025064 - DESPESAS ACESSÓRIAS NAS OPERAÇÕES COM FUTUROS;Despesa;Primário;2;Área Externa;1;Demais despesas;5;;13140000.0;2821330.0;679413.34;679413.34
+2024;402510019;DEPIN;DIPOM;40 BRASILIA-DF;399025923;"ÁREA DE OPERAÇÕES DAS RESERVAS INTERNACIONAIS
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399025923 - OUTRAS - NO EXTERIOR - PRIMÁRIAS;Despesa;Primário;2;Área Externa;1;Demais despesas;5;;26000.0;11310.0;1496.42;1496.42
+2024;402910011;DERIN;DIREX;40 BRASILIA-DF;399029053;"ÁREA DE ORGANISMOS E ACORDOS INTERNACIONAIS
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399029053 - TAXA DE ADMINISTRAÇÃO PELA ALOCAÇÃO DE DES PELO FMI;Despesa;Primário;2;Área Externa;1;Demais despesas;5;;1007005.65;710000.0;700367.6;700367.6
+2024;402510019;DEPIN;DIPOM;40 BRASILIA-DF;398504029;"DESPESAS COM ADMINISTRAÇÃO DE       ATIVOS POR TERCEIROS
+DESPESAS COM A ADMINISTRAÇÃO        EXTERNA DE RECURSOS EM MOEDAS       ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";398504029 - RECURSOS APLICADOS EM FUNDO DE      INVESTIMENTOS ADMINISTRADO PELO BIS;Despesa;Primário;2;Área Externa;1;Demais despesas;5;;18292999.0;17836558.0;15624346.97;15624346.97
+2024;402510019;DEPIN;DIPOM;40 BRASILIA-DF;399025019;"ÁREA DE OPERAÇÕES DAS RESERVAS INTERNACIONAIS
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399025019 - CONVERSÃO DE CÂMBIO MANUAL EM CÂMBIO SACADO;Despesa;Primário;2;Área Externa;1;Demais despesas;5;;1690001.0;1690000.01;1374880.92;1374880.92
+2024;402510019;DEPIN;DIPOM;40 BRASILIA-DF;399090707;"ÁREAS DIVERSAS DO BANCO CENTRAL
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399090707 - CONTRIBUIÇÃO DE INTERVENÇÃO NO      DOMÍNIO ECONÔMICO - CIDE            REMUNERAÇÃO;Despesa;Primário;2;Área Externa;1;Demais despesas;5;;5222000.0;4673445.0;2926795.1;2926795.1
+2024;401010015;DEINF;DIRAD;40 BRASILIA-DF;399090707;"ÁREAS DIVERSAS DO BANCO CENTRAL
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399090707 - CONTRIBUIÇÃO DE INTERVENÇÃO NO      DOMÍNIO ECONÔMICO - CIDE            REMUNERAÇÃO;Despesa;Primário;2;Área Externa;1;Demais despesas;5;;1567100.0;1542099.35;1523064.76;1523064.76
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;399090707;"ÁREAS DIVERSAS DO BANCO CENTRAL
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399090707 - CONTRIBUIÇÃO DE INTERVENÇÃO NO      DOMÍNIO ECONÔMICO - CIDE            REMUNERAÇÃO;Despesa;Primário;2;Área Externa;1;Demais despesas;5;;285000.0;33609.56;31909.2;31909.2
+2024;402510019;DEPIN;DIPOM;40 BRASILIA-DF;399025150;"ÁREA DE OPERAÇÕES DAS RESERVAS INTERNACIONAIS
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399025150 - CORRETAGEM E OUTRAS TARIFAS         INCIDENTES NA NEGOCIAÇÃO DE           EXCHANGE TRADED FUND (ETF);Despesa;Primário;2;Área Externa;1;Demais despesas;5;;1925000.0;1924679.0;1142699.79;1142699.79
+2024;402510019;DEPIN;DIPOM;40 BRASILIA-DF;399025253;"ÁREA DE OPERAÇÕES DAS RESERVAS INTERNACIONAIS
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399025253 - ADVOGADOS NO EXTERIOR;Despesa;Primário;2;Área Externa;1;Demais despesas;5;;1363000.0;1087100.0;516412.73;516412.73
+2024;402910011;DERIN;DIREX;40 BRASILIA-DF;399029077;"ÁREA DE ORGANISMOS E ACORDOS INTERNACIONAIS
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399029077 - GASTO SICAP-CCR;Despesa;Primário;2;Área Externa;1;Demais despesas;5;Registra as despesas com o pagamento aos bancos centrais de Peru e Argentina, responsáveis pelos serviços de compensação multilateral das operações do CCR.;210000.0;210000.0;40659.2;40659.2
+2024;443910018;MECIR;DIRAD;44 BELO HORIZONTE-MG;393902011;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902011 - MANUTENÇÃO DE EQUIPAMENTOS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com mão-de-obra utilizada para a manutenção de equipamentos destinados ao acondicionamento e guarda de numerário, inclusive o material porventura necessário e a reposição de peças e acessórios, se fornecidos pelo executante do serviço, bem como as despesas com instalação do referido material, desde que não incluídas no preço de  aquisição. Inclui-se, também, o conserto de mobiliário com características específicas aos serviços realizados nos ambientes de tesouraria e não passível de utilização em outro ambiente, tais como cadeiras para caixa/conferente tipo guichê e mesas para conferência de numerário.;200017.0;174406.4;151096.93;151096.93
+2024;403910010;MECIR;DIRAD;40 BRASILIA-DF;393903041;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903041 - RECEBIMENTO DE REMESSA E MOVIMENTAÇÃO DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;"Registra as despesas decorrentes do recebimento de remessa e movimentação de numerário, tais como: I) contratação de empresa transportadora e de mão-de-obra; II) manutenção de rádio-comunicadores utilizados nesses serviços; III) pedágios e multas; IV) guarda e manutenção de veículos utilizados nas operações exclusivas de meio circulante; V) transporte internacional de moedas comemorativas.  As despesas com a mão-de-obra (carregadores) permanente são registradas na conta 3939.02.02-8.";1553815.95;1553815.95;1550797.59;1550797.59
+2024;423910014;MECIR;DIRAD;42 BELEM-PA;393903041;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903041 - RECEBIMENTO DE REMESSA E MOVIMENTAÇÃO DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;"Registra as despesas decorrentes do recebimento de remessa e movimentação de numerário, tais como: I) contratação de empresa transportadora e de mão-de-obra; II) manutenção de rádio-comunicadores utilizados nesses serviços; III) pedágios e multas; IV) guarda e manutenção de veículos utilizados nas operações exclusivas de meio circulante; V) transporte internacional de moedas comemorativas.  As despesas com a mão-de-obra (carregadores) permanente são registradas na conta 3939.02.02-8.";145000.0;80000.0;44241.92;44241.92
+2024;443910018;MECIR;DIRAD;44 BELO HORIZONTE-MG;393903041;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903041 - RECEBIMENTO DE REMESSA E MOVIMENTAÇÃO DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;"Registra as despesas decorrentes do recebimento de remessa e movimentação de numerário, tais como: I) contratação de empresa transportadora e de mão-de-obra; II) manutenção de rádio-comunicadores utilizados nesses serviços; III) pedágios e multas; IV) guarda e manutenção de veículos utilizados nas operações exclusivas de meio circulante; V) transporte internacional de moedas comemorativas.  As despesas com a mão-de-obra (carregadores) permanente são registradas na conta 3939.02.02-8.";107672.05;107672.05;98404.38;98404.38
+2024;503910013;MECIR;DIRAD;50 CURITIBA-PR;393903041;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903041 - RECEBIMENTO DE REMESSA E MOVIMENTAÇÃO DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;"Registra as despesas decorrentes do recebimento de remessa e movimentação de numerário, tais como: I) contratação de empresa transportadora e de mão-de-obra; II) manutenção de rádio-comunicadores utilizados nesses serviços; III) pedágios e multas; IV) guarda e manutenção de veículos utilizados nas operações exclusivas de meio circulante; V) transporte internacional de moedas comemorativas.  As despesas com a mão-de-obra (carregadores) permanente são registradas na conta 3939.02.02-8.";370715.0;306018.72;177391.83;177391.83
+2024;543910011;MECIR;DIRAD;54 FORTALEZA-CE;393903041;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903041 - RECEBIMENTO DE REMESSA E MOVIMENTAÇÃO DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;"Registra as despesas decorrentes do recebimento de remessa e movimentação de numerário, tais como: I) contratação de empresa transportadora e de mão-de-obra; II) manutenção de rádio-comunicadores utilizados nesses serviços; III) pedágios e multas; IV) guarda e manutenção de veículos utilizados nas operações exclusivas de meio circulante; V) transporte internacional de moedas comemorativas.  As despesas com a mão-de-obra (carregadores) permanente são registradas na conta 3939.02.02-8.";338413.3;110008.84;95972.92;95972.92
+2024;723910013;MECIR;DIRAD;72 SALVADOR-BA;393902028;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902028 - MOVIMENTAÇÃO INTERNA DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a locação de equipamentos e com a mão-de-obra utilizada para a prestação de serviço de movimentação interna de numerário.;298215.0;298215.0;298213.86;298213.86
+2024;703910019;MECIR;DIRAD;70 RECIFE-PE;393903041;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903041 - RECEBIMENTO DE REMESSA E MOVIMENTAÇÃO DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;"Registra as despesas decorrentes do recebimento de remessa e movimentação de numerário, tais como: I) contratação de empresa transportadora e de mão-de-obra; II) manutenção de rádio-comunicadores utilizados nesses serviços; III) pedágios e multas; IV) guarda e manutenção de veículos utilizados nas operações exclusivas de meio circulante; V) transporte internacional de moedas comemorativas.  As despesas com a mão-de-obra (carregadores) permanente são registradas na conta 3939.02.02-8.";329913.45;312212.87;299900.35;299900.35
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393903041;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903041 - RECEBIMENTO DE REMESSA E MOVIMENTAÇÃO DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;"Registra as despesas decorrentes do recebimento de remessa e movimentação de numerário, tais como: I) contratação de empresa transportadora e de mão-de-obra; II) manutenção de rádio-comunicadores utilizados nesses serviços; III) pedágios e multas; IV) guarda e manutenção de veículos utilizados nas operações exclusivas de meio circulante; V) transporte internacional de moedas comemorativas.  As despesas com a mão-de-obra (carregadores) permanente são registradas na conta 3939.02.02-8.";26194752.26;26194752.26;20210892.5;20210892.5
+2024;723910013;MECIR;DIRAD;72 SALVADOR-BA;393903041;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903041 - RECEBIMENTO DE REMESSA E MOVIMENTAÇÃO DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;"Registra as despesas decorrentes do recebimento de remessa e movimentação de numerário, tais como: I) contratação de empresa transportadora e de mão-de-obra; II) manutenção de rádio-comunicadores utilizados nesses serviços; III) pedágios e multas; IV) guarda e manutenção de veículos utilizados nas operações exclusivas de meio circulante; V) transporte internacional de moedas comemorativas.  As despesas com a mão-de-obra (carregadores) permanente são registradas na conta 3939.02.02-8.";244745.0;244745.0;174643.65;174643.65
+2024;763910011;MECIR;DIRAD;76 SAO PAULO-SP;393903041;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903041 - RECEBIMENTO DE REMESSA E MOVIMENTAÇÃO DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;"Registra as despesas decorrentes do recebimento de remessa e movimentação de numerário, tais como: I) contratação de empresa transportadora e de mão-de-obra; II) manutenção de rádio-comunicadores utilizados nesses serviços; III) pedágios e multas; IV) guarda e manutenção de veículos utilizados nas operações exclusivas de meio circulante; V) transporte internacional de moedas comemorativas.  As despesas com a mão-de-obra (carregadores) permanente são registradas na conta 3939.02.02-8.";284000.0;284000.0;146785.3;146785.3
+2024;403910010;MECIR;DIRAD;40 BRASILIA-DF;393902011;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902011 - MANUTENÇÃO DE EQUIPAMENTOS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com mão-de-obra utilizada para a manutenção de equipamentos destinados ao acondicionamento e guarda de numerário, inclusive o material porventura necessário e a reposição de peças e acessórios, se fornecidos pelo executante do serviço, bem como as despesas com instalação do referido material, desde que não incluídas no preço de  aquisição. Inclui-se, também, o conserto de mobiliário com características específicas aos serviços realizados nos ambientes de tesouraria e não passível de utilização em outro ambiente, tais como cadeiras para caixa/conferente tipo guichê e mesas para conferência de numerário.;253345.99;253345.99;244152.69;244152.69
+2024;423910014;MECIR;DIRAD;42 BELEM-PA;393902011;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902011 - MANUTENÇÃO DE EQUIPAMENTOS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com mão-de-obra utilizada para a manutenção de equipamentos destinados ao acondicionamento e guarda de numerário, inclusive o material porventura necessário e a reposição de peças e acessórios, se fornecidos pelo executante do serviço, bem como as despesas com instalação do referido material, desde que não incluídas no preço de  aquisição. Inclui-se, também, o conserto de mobiliário com características específicas aos serviços realizados nos ambientes de tesouraria e não passível de utilização em outro ambiente, tais como cadeiras para caixa/conferente tipo guichê e mesas para conferência de numerário.;75000.0;6000.0;6000.0;6000.0
+2024;763910011;MECIR;DIRAD;76 SAO PAULO-SP;393902028;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902028 - MOVIMENTAÇÃO INTERNA DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a locação de equipamentos e com a mão-de-obra utilizada para a prestação de serviço de movimentação interna de numerário.;838844.77;838844.77;700542.73;700542.73
+2024;543910011;MECIR;DIRAD;54 FORTALEZA-CE;393902011;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902011 - MANUTENÇÃO DE EQUIPAMENTOS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com mão-de-obra utilizada para a manutenção de equipamentos destinados ao acondicionamento e guarda de numerário, inclusive o material porventura necessário e a reposição de peças e acessórios, se fornecidos pelo executante do serviço, bem como as despesas com instalação do referido material, desde que não incluídas no preço de  aquisição. Inclui-se, também, o conserto de mobiliário com características específicas aos serviços realizados nos ambientes de tesouraria e não passível de utilização em outro ambiente, tais como cadeiras para caixa/conferente tipo guichê e mesas para conferência de numerário.;77331.05;70077.17;63965.73;63965.73
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393902011;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902011 - MANUTENÇÃO DE EQUIPAMENTOS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com mão-de-obra utilizada para a manutenção de equipamentos destinados ao acondicionamento e guarda de numerário, inclusive o material porventura necessário e a reposição de peças e acessórios, se fornecidos pelo executante do serviço, bem como as despesas com instalação do referido material, desde que não incluídas no preço de  aquisição. Inclui-se, também, o conserto de mobiliário com características específicas aos serviços realizados nos ambientes de tesouraria e não passível de utilização em outro ambiente, tais como cadeiras para caixa/conferente tipo guichê e mesas para conferência de numerário.;326304.0;192828.54;135933.6;135933.6
+2024;763910011;MECIR;DIRAD;76 SAO PAULO-SP;393902011;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902011 - MANUTENÇÃO DE EQUIPAMENTOS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com mão-de-obra utilizada para a manutenção de equipamentos destinados ao acondicionamento e guarda de numerário, inclusive o material porventura necessário e a reposição de peças e acessórios, se fornecidos pelo executante do serviço, bem como as despesas com instalação do referido material, desde que não incluídas no preço de  aquisição. Inclui-se, também, o conserto de mobiliário com características específicas aos serviços realizados nos ambientes de tesouraria e não passível de utilização em outro ambiente, tais como cadeiras para caixa/conferente tipo guichê e mesas para conferência de numerário.;508000.0;95822.76;89247.13;89247.13
+2024;503910013;MECIR;DIRAD;50 CURITIBA-PR;393902011;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902011 - MANUTENÇÃO DE EQUIPAMENTOS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com mão-de-obra utilizada para a manutenção de equipamentos destinados ao acondicionamento e guarda de numerário, inclusive o material porventura necessário e a reposição de peças e acessórios, se fornecidos pelo executante do serviço, bem como as despesas com instalação do referido material, desde que não incluídas no preço de  aquisição. Inclui-se, também, o conserto de mobiliário com características específicas aos serviços realizados nos ambientes de tesouraria e não passível de utilização em outro ambiente, tais como cadeiras para caixa/conferente tipo guichê e mesas para conferência de numerário.;190000.0;95250.0;84666.64;84666.64
+2024;703910019;MECIR;DIRAD;70 RECIFE-PE;393902011;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902011 - MANUTENÇÃO DE EQUIPAMENTOS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com mão-de-obra utilizada para a manutenção de equipamentos destinados ao acondicionamento e guarda de numerário, inclusive o material porventura necessário e a reposição de peças e acessórios, se fornecidos pelo executante do serviço, bem como as despesas com instalação do referido material, desde que não incluídas no preço de  aquisição. Inclui-se, também, o conserto de mobiliário com características específicas aos serviços realizados nos ambientes de tesouraria e não passível de utilização em outro ambiente, tais como cadeiras para caixa/conferente tipo guichê e mesas para conferência de numerário.;53352.0;50837.5;49546.81;49546.81
+2024;723910013;MECIR;DIRAD;72 SALVADOR-BA;393902011;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902011 - MANUTENÇÃO DE EQUIPAMENTOS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com mão-de-obra utilizada para a manutenção de equipamentos destinados ao acondicionamento e guarda de numerário, inclusive o material porventura necessário e a reposição de peças e acessórios, se fornecidos pelo executante do serviço, bem como as despesas com instalação do referido material, desde que não incluídas no preço de  aquisição. Inclui-se, também, o conserto de mobiliário com características específicas aos serviços realizados nos ambientes de tesouraria e não passível de utilização em outro ambiente, tais como cadeiras para caixa/conferente tipo guichê e mesas para conferência de numerário.;31000.0;31000.0;31000.0;31000.0
+2024;403910010;MECIR;DIRAD;40 BRASILIA-DF;393902028;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902028 - MOVIMENTAÇÃO INTERNA DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a locação de equipamentos e com a mão-de-obra utilizada para a prestação de serviço de movimentação interna de numerário.;1823553.87;1823553.87;1823553.87;1823553.87
+2024;423910014;MECIR;DIRAD;42 BELEM-PA;393902028;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902028 - MOVIMENTAÇÃO INTERNA DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a locação de equipamentos e com a mão-de-obra utilizada para a prestação de serviço de movimentação interna de numerário.;241095.48;241095.48;218675.69;218675.69
+2024;443910018;MECIR;DIRAD;44 BELO HORIZONTE-MG;393902028;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902028 - MOVIMENTAÇÃO INTERNA DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a locação de equipamentos e com a mão-de-obra utilizada para a prestação de serviço de movimentação interna de numerário.;365526.0;305205.53;296863.23;296863.23
+2024;503910013;MECIR;DIRAD;50 CURITIBA-PR;393902028;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902028 - MOVIMENTAÇÃO INTERNA DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a locação de equipamentos e com a mão-de-obra utilizada para a prestação de serviço de movimentação interna de numerário.;310469.4;307370.11;283502.3;283502.3
+2024;543910011;MECIR;DIRAD;54 FORTALEZA-CE;393902028;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902028 - MOVIMENTAÇÃO INTERNA DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a locação de equipamentos e com a mão-de-obra utilizada para a prestação de serviço de movimentação interna de numerário.;143475.18;143475.18;137596.02;137596.02
+2024;703910019;MECIR;DIRAD;70 RECIFE-PE;393902028;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902028 - MOVIMENTAÇÃO INTERNA DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a locação de equipamentos e com a mão-de-obra utilizada para a prestação de serviço de movimentação interna de numerário.;400913.91;400913.91;395517.19;395517.19
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393902028;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902028 - MOVIMENTAÇÃO INTERNA DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a locação de equipamentos e com a mão-de-obra utilizada para a prestação de serviço de movimentação interna de numerário.;1567336.03;1567336.03;1345604.06;1345604.06
+2024;423910014;MECIR;DIRAD;42 BELEM-PA;393902200;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902200 - CONDUÇÃO, PASSAGENS E MULTAS POR REMARCAÇÃO DE VOO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com condução e passagens realizadas com o serviço de acondicionamento e guarda de numerário, para garantir a segurança, verificação e conferência dos estoques de propriedade do Banco em casas-fortes próprias ou de terceiros.;12302.0;0.0;0.0;0.0
+2024;443910018;MECIR;DIRAD;44 BELO HORIZONTE-MG;393902200;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902200 - CONDUÇÃO, PASSAGENS E MULTAS POR REMARCAÇÃO DE VOO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com condução e passagens realizadas com o serviço de acondicionamento e guarda de numerário, para garantir a segurança, verificação e conferência dos estoques de propriedade do Banco em casas-fortes próprias ou de terceiros.;13517.73;0.0;0.0;0.0
+2024;503910013;MECIR;DIRAD;50 CURITIBA-PR;393902200;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902200 - CONDUÇÃO, PASSAGENS E MULTAS POR REMARCAÇÃO DE VOO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com condução e passagens realizadas com o serviço de acondicionamento e guarda de numerário, para garantir a segurança, verificação e conferência dos estoques de propriedade do Banco em casas-fortes próprias ou de terceiros.;22554.0;0.0;0.0;0.0
+2024;683910012;MECIR;DIRAD;68 PORTO ALEGRE-RS;393902200;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902200 - CONDUÇÃO, PASSAGENS E MULTAS POR REMARCAÇÃO DE VOO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com condução e passagens realizadas com o serviço de acondicionamento e guarda de numerário, para garantir a segurança, verificação e conferência dos estoques de propriedade do Banco em casas-fortes próprias ou de terceiros.;460.0;460.0;460.0;460.0
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393902200;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902200 - CONDUÇÃO, PASSAGENS E MULTAS POR REMARCAÇÃO DE VOO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com condução e passagens realizadas com o serviço de acondicionamento e guarda de numerário, para garantir a segurança, verificação e conferência dos estoques de propriedade do Banco em casas-fortes próprias ou de terceiros.;177852.0;177852.0;175141.93;175141.93
+2024;407910016;DESEG;DIRAD;40 BRASILIA-DF;393902200;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902200 - CONDUÇÃO, PASSAGENS E MULTAS POR REMARCAÇÃO DE VOO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com condução e passagens realizadas com o serviço de acondicionamento e guarda de numerário, para garantir a segurança, verificação e conferência dos estoques de propriedade do Banco em casas-fortes próprias ou de terceiros.;18120.0;18120.0;17653.74;17653.74
+2024;423910014;MECIR;DIRAD;42 BELEM-PA;393902217;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902217 - DIÁRIAS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com diárias de pessoal realizadas com o serviço de acondicionamento e guarda de numerário, para garantir a segurança, verificação e conferência dos estoques de propriedade do Banco em casas-fortes próprias ou de terceiros.;13440.0;0.0;0.0;0.0
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393902217;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902217 - DIÁRIAS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com diárias de pessoal realizadas com o serviço de acondicionamento e guarda de numerário, para garantir a segurança, verificação e conferência dos estoques de propriedade do Banco em casas-fortes próprias ou de terceiros.;132920.0;126954.78;119005.09;119005.09
+2024;503910013;MECIR;DIRAD;50 CURITIBA-PR;393902217;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902217 - DIÁRIAS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com diárias de pessoal realizadas com o serviço de acondicionamento e guarda de numerário, para garantir a segurança, verificação e conferência dos estoques de propriedade do Banco em casas-fortes próprias ou de terceiros.;22400.0;0.0;0.0;0.0
+2024;423910014;MECIR;DIRAD;42 BELEM-PA;393903106;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903106 - MATERIAL DE CONSUMO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a aquisição de combustível para distribuição de numerário e com a aquisição de materiais para a manutenção de veículos de propriedade do Banco, destinados ao  transporte de numerário, tais como aparelho de ar-condicionado, baterias, calotas, filtros, limpadores de pára-brisas, lâmpadas, pneus e rádio.;15000.0;12208.59;11059.65;11059.65
+2024;407910016;DESEG;DIRAD;40 BRASILIA-DF;393902217;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902217 - DIÁRIAS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com diárias de pessoal realizadas com o serviço de acondicionamento e guarda de numerário, para garantir a segurança, verificação e conferência dos estoques de propriedade do Banco em casas-fortes próprias ou de terceiros.;15084.14;15084.14;14259.77;14259.77
+2024;443910018;MECIR;DIRAD;44 BELO HORIZONTE-MG;393903089;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903089 - ESCOLTA ARMADA;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a execução da atividade de escolta armada no transporte de valores, inclusive as despesas com fornecimento de lanche (somente para terceirizados) e combustível.;459.0;0.0;0.0;0.0
+2024;407910016;DESEG;DIRAD;40 BRASILIA-DF;393903182;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903182 - LOCOMOÇÃO URBANA;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com locomoção urbana realizada por meio de ônibus, táxi e outros veículos de transportes urbanos, para atender necessidades do serviço.;2375.0;2375.0;2185.0;2185.0
+2024;763910011;MECIR;DIRAD;76 SAO PAULO-SP;393903089;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903089 - ESCOLTA ARMADA;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a execução da atividade de escolta armada no transporte de valores, inclusive as despesas com fornecimento de lanche (somente para terceirizados) e combustível.;69021.0;60481.84;9650.1;9650.1
+2024;407910016;DESEG;DIRAD;40 BRASILIA-DF;393903089;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903089 - ESCOLTA ARMADA;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a execução da atividade de escolta armada no transporte de valores, inclusive as despesas com fornecimento de lanche (somente para terceirizados) e combustível.;1685102.64;1685102.64;1685102.64;1685102.64
+2024;427910010;DESEG;DIRAD;42 BELEM-PA;393903089;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903089 - ESCOLTA ARMADA;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a execução da atividade de escolta armada no transporte de valores, inclusive as despesas com fornecimento de lanche (somente para terceirizados) e combustível.;590072.0;526850.0;526850.0;526850.0
+2024;507910019;DESEG;DIRAD;50 CURITIBA-PR;393903089;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903089 - ESCOLTA ARMADA;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a execução da atividade de escolta armada no transporte de valores, inclusive as despesas com fornecimento de lanche (somente para terceirizados) e combustível.;550000.0;550000.0;550000.0;550000.0
+2024;547910017;DESEG;DIRAD;54 FORTALEZA-CE;393903089;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903089 - ESCOLTA ARMADA;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a execução da atividade de escolta armada no transporte de valores, inclusive as despesas com fornecimento de lanche (somente para terceirizados) e combustível.;500000.0;500000.0;500000.0;500000.0
+2024;687910018;DESEG;DIRAD;68 PORTO ALEGRE-RS;393903089;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903089 - ESCOLTA ARMADA;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a execução da atividade de escolta armada no transporte de valores, inclusive as despesas com fornecimento de lanche (somente para terceirizados) e combustível.;250513.05;250513.05;250513.05;250513.05
+2024;707910015;DESEG;DIRAD;70 RECIFE-PE;393903089;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903089 - ESCOLTA ARMADA;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a execução da atividade de escolta armada no transporte de valores, inclusive as despesas com fornecimento de lanche (somente para terceirizados) e combustível.;271000.0;271000.0;271000.0;271000.0
+2024;717910012;DESEG;DIRAD;71 RIO DE JANEIRO-RJ;393903089;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903089 - ESCOLTA ARMADA;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a execução da atividade de escolta armada no transporte de valores, inclusive as despesas com fornecimento de lanche (somente para terceirizados) e combustível.;4142929.0;4106878.9;4057114.68;4057114.68
+2024;727910019;DESEG;DIRAD;72 SALVADOR-BA;393903089;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903089 - ESCOLTA ARMADA;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a execução da atividade de escolta armada no transporte de valores, inclusive as despesas com fornecimento de lanche (somente para terceirizados) e combustível.;493400.0;493400.0;493400.0;493400.0
+2024;767910017;DESEG;DIRAD;76 SAO PAULO-SP;393903089;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903089 - ESCOLTA ARMADA;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a execução da atividade de escolta armada no transporte de valores, inclusive as despesas com fornecimento de lanche (somente para terceirizados) e combustível.;600000.0;0.0;0.0;0.0
+2024;403910010;MECIR;DIRAD;40 BRASILIA-DF;393903106;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903106 - MATERIAL DE CONSUMO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a aquisição de combustível para distribuição de numerário e com a aquisição de materiais para a manutenção de veículos de propriedade do Banco, destinados ao  transporte de numerário, tais como aparelho de ar-condicionado, baterias, calotas, filtros, limpadores de pára-brisas, lâmpadas, pneus e rádio.;209942.33;209942.33;190180.89;190180.89
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393903106;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903106 - MATERIAL DE CONSUMO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a aquisição de combustível para distribuição de numerário e com a aquisição de materiais para a manutenção de veículos de propriedade do Banco, destinados ao  transporte de numerário, tais como aparelho de ar-condicionado, baterias, calotas, filtros, limpadores de pára-brisas, lâmpadas, pneus e rádio.;1364393.49;200000.0;145128.74;145128.74
+2024;443910018;MECIR;DIRAD;44 BELO HORIZONTE-MG;393903106;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903106 - MATERIAL DE CONSUMO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a aquisição de combustível para distribuição de numerário e com a aquisição de materiais para a manutenção de veículos de propriedade do Banco, destinados ao  transporte de numerário, tais como aparelho de ar-condicionado, baterias, calotas, filtros, limpadores de pára-brisas, lâmpadas, pneus e rádio.;37000.0;37000.0;35196.46;35196.46
+2024;683910012;MECIR;DIRAD;68 PORTO ALEGRE-RS;393903106;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903106 - MATERIAL DE CONSUMO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a aquisição de combustível para distribuição de numerário e com a aquisição de materiais para a manutenção de veículos de propriedade do Banco, destinados ao  transporte de numerário, tais como aparelho de ar-condicionado, baterias, calotas, filtros, limpadores de pára-brisas, lâmpadas, pneus e rádio.;1817.97;1817.97;1817.97;1817.97
+2024;763910011;MECIR;DIRAD;76 SAO PAULO-SP;393903106;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903106 - MATERIAL DE CONSUMO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a aquisição de combustível para distribuição de numerário e com a aquisição de materiais para a manutenção de veículos de propriedade do Banco, destinados ao  transporte de numerário, tais como aparelho de ar-condicionado, baterias, calotas, filtros, limpadores de pára-brisas, lâmpadas, pneus e rádio.;50000.0;50000.0;23016.02;23016.02
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393903182;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903182 - LOCOMOÇÃO URBANA;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com locomoção urbana realizada por meio de ônibus, táxi e outros veículos de transportes urbanos, para atender necessidades do serviço.;23800.0;22760.0;20045.0;20045.0
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393903209;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903209 - CONDUÇÃO, PASSAGENS E MULTAS POR REMARCAÇÃO DE VOO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com condução e passagens realizadas com o serviço de distribuição de  numerário, inclusive aquelas relativas à participação de servidores do Departamento de Segurança.;357790.0;347494.9;327295.89;327295.89
+2024;407910016;DESEG;DIRAD;40 BRASILIA-DF;393903209;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903209 - CONDUÇÃO, PASSAGENS E MULTAS POR REMARCAÇÃO DE VOO;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com condução e passagens realizadas com o serviço de distribuição de  numerário, inclusive aquelas relativas à participação de servidores do Departamento de Segurança.;80309.0;80309.0;74136.88;74136.88
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393903216;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903216 - DIÁRIAS;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com diárias de pessoal realizadas com o serviço de distribuição de numerário, inclusive aquelas relativas à participação de servidores do Departamento de Segurança.;211780.0;160995.0;151108.51;151108.51
+2024;407910016;DESEG;DIRAD;40 BRASILIA-DF;393903216;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903216 - DIÁRIAS;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com diárias de pessoal realizadas com o serviço de distribuição de numerário, inclusive aquelas relativas à participação de servidores do Departamento de Segurança.;49233.89;49233.89;47144.55;47144.55
+2024;403910010;MECIR;DIRAD;40 BRASILIA-DF;393904026;"SELEÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393904026 - MANUTENÇÃO DE EQUIPAMENTOS;Despesa;Primário;2;Meio Circulante;5;Destruição de numerário;9;Registra as despesas com mão-de-obra utilizada para a manutenção de equipamentos  destinados à seleção de numerário, inclusive o material porventura necessário e a reposição de peças e acessórios, se fornecidos pelo executante do serviço, bem como as despesas com instalação do referido material, desde que não incluídas no preço de aquisição.;40217.14;40217.14;40217.14;40217.14
+2024;407910016;DESEG;DIRAD;40 BRASILIA-DF;393902066;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902066 - SISTEMA DE ALARMES;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a prestação de serviços de locação, instalação, manutenção preventiva e corretiva, assistência técnica, monitoração remota, etc., de sistema de alarmes, bem como as despesas com a manutenção de sistemas de controle de acesso às instalações do Banco.;2088530.0;953084.34;946254.55;946254.55
+2024;447910014;DESEG;DIRAD;44 BELO HORIZONTE-MG;393902066;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902066 - SISTEMA DE ALARMES;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a prestação de serviços de locação, instalação, manutenção preventiva e corretiva, assistência técnica, monitoração remota, etc., de sistema de alarmes, bem como as despesas com a manutenção de sistemas de controle de acesso às instalações do Banco.;60252.14;60252.14;38157.64;38157.64
+2024;547910017;DESEG;DIRAD;54 FORTALEZA-CE;393902066;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902066 - SISTEMA DE ALARMES;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a prestação de serviços de locação, instalação, manutenção preventiva e corretiva, assistência técnica, monitoração remota, etc., de sistema de alarmes, bem como as despesas com a manutenção de sistemas de controle de acesso às instalações do Banco.;29062.0;26978.13;26976.79;26976.79
+2024;717910012;DESEG;DIRAD;71 RIO DE JANEIRO-RJ;393902066;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902066 - SISTEMA DE ALARMES;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a prestação de serviços de locação, instalação, manutenção preventiva e corretiva, assistência técnica, monitoração remota, etc., de sistema de alarmes, bem como as despesas com a manutenção de sistemas de controle de acesso às instalações do Banco.;189796.94;189796.94;70199.64;70199.64
+2024;767910017;DESEG;DIRAD;76 SAO PAULO-SP;393902066;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902066 - SISTEMA DE ALARMES;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a prestação de serviços de locação, instalação, manutenção preventiva e corretiva, assistência técnica, monitoração remota, etc., de sistema de alarmes, bem como as despesas com a manutenção de sistemas de controle de acesso às instalações do Banco.;85163.0;76754.88;76754.88;76754.88
+2024;423910014;MECIR;DIRAD;42 BELEM-PA;393902097;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902097 - MANUTENÇÃO PREDIAL - SERVIÇOS DE    TERCEIROS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;"Registra as despesas com manutenção predial de imóveis de propriedade do Banco, indissociáveis da execução do meio circulante, tais como: (I) coleta de lixo extraordinário/recolhimento e destinação de resíduos de cédulas; (II) outras em que se possa assegurar relação única e direta com a produção, guarda, distribuição e descarte de numerário, intrínsecas à execução do meio circulante.";399234.84;399234.84;256845.95;256845.95
+2024;767910017;DESEG;DIRAD;76 SAO PAULO-SP;393902059;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902059 - SEGURANÇA PREDIAL;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com segurança predial decorrentes da contratação de firmas de segurança para postos definidos pelo Banco e diretamente relacionados à guarda de numerário (inclusive administração do pessoal colocado a serviço no Banco) e as despesas relativas aos convênios com instituições militares, destinadas à prestação de serviços especializados em policiamento ostensivo (inclusive treinamento e outras despesas realizadas com essa finalidade), bem como as despesas com taxas referentes a Serviço Orgânico de Segurança.;26579255.07;26575259.07;23126905.12;23126905.12
+2024;407910016;DESEG;DIRAD;40 BRASILIA-DF;393902059;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902059 - SEGURANÇA PREDIAL;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com segurança predial decorrentes da contratação de firmas de segurança para postos definidos pelo Banco e diretamente relacionados à guarda de numerário (inclusive administração do pessoal colocado a serviço no Banco) e as despesas relativas aos convênios com instituições militares, destinadas à prestação de serviços especializados em policiamento ostensivo (inclusive treinamento e outras despesas realizadas com essa finalidade), bem como as despesas com taxas referentes a Serviço Orgânico de Segurança.;32218276.16;29522548.66;29522548.66;29522548.66
+2024;427910010;DESEG;DIRAD;42 BELEM-PA;393902059;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902059 - SEGURANÇA PREDIAL;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com segurança predial decorrentes da contratação de firmas de segurança para postos definidos pelo Banco e diretamente relacionados à guarda de numerário (inclusive administração do pessoal colocado a serviço no Banco) e as despesas relativas aos convênios com instituições militares, destinadas à prestação de serviços especializados em policiamento ostensivo (inclusive treinamento e outras despesas realizadas com essa finalidade), bem como as despesas com taxas referentes a Serviço Orgânico de Segurança.;7102307.0;6690364.16;6690364.16;6690364.16
+2024;447910014;DESEG;DIRAD;44 BELO HORIZONTE-MG;393902059;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902059 - SEGURANÇA PREDIAL;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com segurança predial decorrentes da contratação de firmas de segurança para postos definidos pelo Banco e diretamente relacionados à guarda de numerário (inclusive administração do pessoal colocado a serviço no Banco) e as despesas relativas aos convênios com instituições militares, destinadas à prestação de serviços especializados em policiamento ostensivo (inclusive treinamento e outras despesas realizadas com essa finalidade), bem como as despesas com taxas referentes a Serviço Orgânico de Segurança.;8914364.63;8776521.15;8584293.08;8584293.08
+2024;507910019;DESEG;DIRAD;50 CURITIBA-PR;393902059;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902059 - SEGURANÇA PREDIAL;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com segurança predial decorrentes da contratação de firmas de segurança para postos definidos pelo Banco e diretamente relacionados à guarda de numerário (inclusive administração do pessoal colocado a serviço no Banco) e as despesas relativas aos convênios com instituições militares, destinadas à prestação de serviços especializados em policiamento ostensivo (inclusive treinamento e outras despesas realizadas com essa finalidade), bem como as despesas com taxas referentes a Serviço Orgânico de Segurança.;6440596.03;6440596.03;6440596.03;6440596.03
+2024;547910017;DESEG;DIRAD;54 FORTALEZA-CE;393902059;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902059 - SEGURANÇA PREDIAL;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com segurança predial decorrentes da contratação de firmas de segurança para postos definidos pelo Banco e diretamente relacionados à guarda de numerário (inclusive administração do pessoal colocado a serviço no Banco) e as despesas relativas aos convênios com instituições militares, destinadas à prestação de serviços especializados em policiamento ostensivo (inclusive treinamento e outras despesas realizadas com essa finalidade), bem como as despesas com taxas referentes a Serviço Orgânico de Segurança.;5224267.0;5187578.86;5187578.86;5187578.86
+2024;707910015;DESEG;DIRAD;70 RECIFE-PE;393902059;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902059 - SEGURANÇA PREDIAL;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com segurança predial decorrentes da contratação de firmas de segurança para postos definidos pelo Banco e diretamente relacionados à guarda de numerário (inclusive administração do pessoal colocado a serviço no Banco) e as despesas relativas aos convênios com instituições militares, destinadas à prestação de serviços especializados em policiamento ostensivo (inclusive treinamento e outras despesas realizadas com essa finalidade), bem como as despesas com taxas referentes a Serviço Orgânico de Segurança.;6772857.67;5969570.09;5969570.09;5969570.09
+2024;717910012;DESEG;DIRAD;71 RIO DE JANEIRO-RJ;393902059;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902059 - SEGURANÇA PREDIAL;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com segurança predial decorrentes da contratação de firmas de segurança para postos definidos pelo Banco e diretamente relacionados à guarda de numerário (inclusive administração do pessoal colocado a serviço no Banco) e as despesas relativas aos convênios com instituições militares, destinadas à prestação de serviços especializados em policiamento ostensivo (inclusive treinamento e outras despesas realizadas com essa finalidade), bem como as despesas com taxas referentes a Serviço Orgânico de Segurança.;23521509.37;22909009.37;22857324.67;22857324.67
+2024;727910019;DESEG;DIRAD;72 SALVADOR-BA;393902059;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902059 - SEGURANÇA PREDIAL;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com segurança predial decorrentes da contratação de firmas de segurança para postos definidos pelo Banco e diretamente relacionados à guarda de numerário (inclusive administração do pessoal colocado a serviço no Banco) e as despesas relativas aos convênios com instituições militares, destinadas à prestação de serviços especializados em policiamento ostensivo (inclusive treinamento e outras despesas realizadas com essa finalidade), bem como as despesas com taxas referentes a Serviço Orgânico de Segurança.;5110623.0;5014979.3;4987100.59;4987100.59
+2024;403910010;MECIR;DIRAD;40 BRASILIA-DF;393902097;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902097 - MANUTENÇÃO PREDIAL - SERVIÇOS DE    TERCEIROS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;"Registra as despesas com manutenção predial de imóveis de propriedade do Banco, indissociáveis da execução do meio circulante, tais como: (I) coleta de lixo extraordinário/recolhimento e destinação de resíduos de cédulas; (II) outras em que se possa assegurar relação única e direta com a produção, guarda, distribuição e descarte de numerário, intrínsecas à execução do meio circulante.";124948.08;124948.08;124948.08;124948.08
+2024;443910018;MECIR;DIRAD;44 BELO HORIZONTE-MG;393902097;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902097 - MANUTENÇÃO PREDIAL - SERVIÇOS DE    TERCEIROS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;"Registra as despesas com manutenção predial de imóveis de propriedade do Banco, indissociáveis da execução do meio circulante, tais como: (I) coleta de lixo extraordinário/recolhimento e destinação de resíduos de cédulas; (II) outras em que se possa assegurar relação única e direta com a produção, guarda, distribuição e descarte de numerário, intrínsecas à execução do meio circulante.";141667.28;141667.28;139379.85;139379.85
+2024;503910013;MECIR;DIRAD;50 CURITIBA-PR;393902097;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902097 - MANUTENÇÃO PREDIAL - SERVIÇOS DE    TERCEIROS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;"Registra as despesas com manutenção predial de imóveis de propriedade do Banco, indissociáveis da execução do meio circulante, tais como: (I) coleta de lixo extraordinário/recolhimento e destinação de resíduos de cédulas; (II) outras em que se possa assegurar relação única e direta com a produção, guarda, distribuição e descarte de numerário, intrínsecas à execução do meio circulante.";177681.6;125740.8;80640.8;80640.8
+2024;543910011;MECIR;DIRAD;54 FORTALEZA-CE;393902097;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902097 - MANUTENÇÃO PREDIAL - SERVIÇOS DE    TERCEIROS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;"Registra as despesas com manutenção predial de imóveis de propriedade do Banco, indissociáveis da execução do meio circulante, tais como: (I) coleta de lixo extraordinário/recolhimento e destinação de resíduos de cédulas; (II) outras em que se possa assegurar relação única e direta com a produção, guarda, distribuição e descarte de numerário, intrínsecas à execução do meio circulante.";279158.55;279158.55;194831.01;194831.01
+2024;703910019;MECIR;DIRAD;70 RECIFE-PE;393902097;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902097 - MANUTENÇÃO PREDIAL - SERVIÇOS DE    TERCEIROS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;"Registra as despesas com manutenção predial de imóveis de propriedade do Banco, indissociáveis da execução do meio circulante, tais como: (I) coleta de lixo extraordinário/recolhimento e destinação de resíduos de cédulas; (II) outras em que se possa assegurar relação única e direta com a produção, guarda, distribuição e descarte de numerário, intrínsecas à execução do meio circulante.";136352.0;130716.56;129274.06;129274.06
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393902097;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902097 - MANUTENÇÃO PREDIAL - SERVIÇOS DE    TERCEIROS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;"Registra as despesas com manutenção predial de imóveis de propriedade do Banco, indissociáveis da execução do meio circulante, tais como: (I) coleta de lixo extraordinário/recolhimento e destinação de resíduos de cédulas; (II) outras em que se possa assegurar relação única e direta com a produção, guarda, distribuição e descarte de numerário, intrínsecas à execução do meio circulante.";2022008.45;2022008.45;1777196.16;1777196.16
+2024;723910013;MECIR;DIRAD;72 SALVADOR-BA;393902097;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902097 - MANUTENÇÃO PREDIAL - SERVIÇOS DE    TERCEIROS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;"Registra as despesas com manutenção predial de imóveis de propriedade do Banco, indissociáveis da execução do meio circulante, tais como: (I) coleta de lixo extraordinário/recolhimento e destinação de resíduos de cédulas; (II) outras em que se possa assegurar relação única e direta com a produção, guarda, distribuição e descarte de numerário, intrínsecas à execução do meio circulante.";272540.0;154340.0;154338.49;154338.49
+2024;763910011;MECIR;DIRAD;76 SAO PAULO-SP;393902097;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902097 - MANUTENÇÃO PREDIAL - SERVIÇOS DE    TERCEIROS;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;"Registra as despesas com manutenção predial de imóveis de propriedade do Banco, indissociáveis da execução do meio circulante, tais como: (I) coleta de lixo extraordinário/recolhimento e destinação de resíduos de cédulas; (II) outras em que se possa assegurar relação única e direta com a produção, guarda, distribuição e descarte de numerário, intrínsecas à execução do meio circulante.";773500.0;773500.0;576297.4;576297.4
+2024;423910014;MECIR;DIRAD;42 BELEM-PA;393902183;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902183 - LOCOMOÇÃO URBANA;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com locomoção urbana realizada por meio de ônibus, táxi e outros veículos de transportes urbanos, para atender necessidades do serviço.;357.0;0.0;0.0;0.0
+2024;403910010;MECIR;DIRAD;40 BRASILIA-DF;393902107;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902107 - MATERIAL DE CONSUMO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;"Registra as despesas com aquisição de materiais de consumo diretamente relacionados com o acondicionamento e guarda de numerário, tais como: (I) caixa para embalagem de cédulas, cintas e etiquetas gomadas, lacres, sacos de aniagem, sacos para guarda de moedas, munição, colete à prova de balas, etc.; (II) materiais utilizados pelos profissionais do Banco, destinados à manutenção predial de imóveis de propriedade do Banco, tais como: cadeados, chapas de madeira, carpetes, cimento, espelhos, fechaduras, fios, janelas, ladrilhos, massas, molas para portas, parafusos, persianas, pisos, portais, portas, pregos, resistências, tijolos, tintas, tomadas, etc.; (III) todo o material utilizado em imóvel e que passe a integrá-lo, sem possibilidade de remoção sem ser inutilizado; (IV) material de consumo utilizado em equipamentos de segurança.";332868.8;108880.0;6649.97;6649.97
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393902107;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902107 - MATERIAL DE CONSUMO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;"Registra as despesas com aquisição de materiais de consumo diretamente relacionados com o acondicionamento e guarda de numerário, tais como: (I) caixa para embalagem de cédulas, cintas e etiquetas gomadas, lacres, sacos de aniagem, sacos para guarda de moedas, munição, colete à prova de balas, etc.; (II) materiais utilizados pelos profissionais do Banco, destinados à manutenção predial de imóveis de propriedade do Banco, tais como: cadeados, chapas de madeira, carpetes, cimento, espelhos, fechaduras, fios, janelas, ladrilhos, massas, molas para portas, parafusos, persianas, pisos, portais, portas, pregos, resistências, tijolos, tintas, tomadas, etc.; (III) todo o material utilizado em imóvel e que passe a integrá-lo, sem possibilidade de remoção sem ser inutilizado; (IV) material de consumo utilizado em equipamentos de segurança.";293360.0;153360.0;153360.0;153360.0
+2024;727910019;DESEG;DIRAD;72 SALVADOR-BA;393902073;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902073 - MONITORAMENTO ELETRÔNICO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com os serviços de vigilância eletrônica, monitoramento remoto, manutenção e assistência técnica de circuito fechado de televisão.;69895.22;69895.22;46759.07;46759.07
+2024;447910014;DESEG;DIRAD;44 BELO HORIZONTE-MG;393902073;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902073 - MONITORAMENTO ELETRÔNICO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com os serviços de vigilância eletrônica, monitoramento remoto, manutenção e assistência técnica de circuito fechado de televisão.;75000.0;0.0;0.0;0.0
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393902183;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902183 - LOCOMOÇÃO URBANA;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com locomoção urbana realizada por meio de ônibus, táxi e outros veículos de transportes urbanos, para atender necessidades do serviço.;18459.0;12325.0;7885.0;7885.0
+2024;407910016;DESEG;DIRAD;40 BRASILIA-DF;393902183;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902183 - LOCOMOÇÃO URBANA;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com locomoção urbana realizada por meio de ônibus, táxi e outros veículos de transportes urbanos, para atender necessidades do serviço.;950.0;950.0;950.0;950.0
+2024;407910016;DESEG;DIRAD;40 BRASILIA-DF;393902073;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902073 - MONITORAMENTO ELETRÔNICO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com os serviços de vigilância eletrônica, monitoramento remoto, manutenção e assistência técnica de circuito fechado de televisão.;2019008.51;2019008.51;1503600.33;1503600.33
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393904019;"SELEÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393904019 - PROCESSAMENTO AUTOMATIZADO DE CÉDULAS;Despesa;Primário;2;Meio Circulante;5;Destruição de numerário;9;Registra as despesas decorrentes do processamento automatizado de cédulas na seleção de numerário.;23288551.65;23288551.65;22920454.79;22920454.79
+2024;507910019;DESEG;DIRAD;50 CURITIBA-PR;393902073;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902073 - MONITORAMENTO ELETRÔNICO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com os serviços de vigilância eletrônica, monitoramento remoto, manutenção e assistência técnica de circuito fechado de televisão.;109666.72;109037.19;109037.19;109037.19
+2024;547910017;DESEG;DIRAD;54 FORTALEZA-CE;393902073;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902073 - MONITORAMENTO ELETRÔNICO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com os serviços de vigilância eletrônica, monitoramento remoto, manutenção e assistência técnica de circuito fechado de televisão.;161488.39;79466.67;78678.73;78678.73
+2024;707910015;DESEG;DIRAD;70 RECIFE-PE;393902073;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902073 - MONITORAMENTO ELETRÔNICO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com os serviços de vigilância eletrônica, monitoramento remoto, manutenção e assistência técnica de circuito fechado de televisão.;96762.97;96762.97;96762.29;96762.29
+2024;717910012;DESEG;DIRAD;71 RIO DE JANEIRO-RJ;393902073;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902073 - MONITORAMENTO ELETRÔNICO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com os serviços de vigilância eletrônica, monitoramento remoto, manutenção e assistência técnica de circuito fechado de televisão.;241053.91;152109.87;116539.88;116539.88
+2024;767910017;DESEG;DIRAD;76 SAO PAULO-SP;393902073;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902073 - MONITORAMENTO ELETRÔNICO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com os serviços de vigilância eletrônica, monitoramento remoto, manutenção e assistência técnica de circuito fechado de televisão.;139333.0;0.0;0.0;0.0
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393902224;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902224 - INDENIZAÇÃO DE TRANSPORTE;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra a indenização de transporte paga aos servidores do Mecir que atuam na fiscalização da custódia de numerário.;13861.0;5000.0;612.0;612.0
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393903010;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903010 - FRETAMENTO DE AERONAVES;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com o fretamento de aeronaves utilizadas na distribuição de numerário.;27276247.51;22435916.11;21941629.08;21941629.08
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393901029;"AQUISIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393901029 - MOEDAS;Despesa;Primário;2;Meio Circulante;5;Aquisição de numerário;6;Registra as despesas com a aquisição de moedas.;227905131.52;227905131.52;227905131.52;227905131.52
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393905018;"DESTRUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393905018 - MANUTENÇÃO DE FRAGMENTADORAS;Despesa;Primário;2;Meio Circulante;5;Destruição de numerário;9;Registra as despesas com mão-de-obra utilizada para a manutenção de fragmentadoras destinadas à destruição de numerário, inclusive o material porventura necessário e a reposição de peças e acessórios, se fornecidos pelo executante do serviço, bem como as despesas com  instalação do referido material, desde que não incluídas no preço de aquisição.;2503764.0;2487827.24;2487535.76;2487535.76
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393905214;"DESTRUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393905214 - DIÁRIAS;Despesa;Primário;2;Meio Circulante;5;Outras despesas;10;Registra as despesas com diárias de pessoal realizadas com o serviço de destruição de numerário, quando da formação de equipes com servidores oriundos de localidades diferentes daquela onde ocorrerá a destruição.;2216.63;2216.63;2067.08;2067.08
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393901036;"AQUISIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393901036 - MOEDAS COMEMORATIVAS;Despesa;Primário;2;Meio Circulante;5;Aquisição de numerário;6;Registra as despesas com a aquisição de moedas comemorativas.;3122385.6;3122385.6;2228925.6;2228925.6
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393901012;"AQUISIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393901012 - CÉDULAS;Despesa;Primário;2;Meio Circulante;5;Aquisição de numerário;6;Registra as despesas com a aquisição de cédulas.;615016062.0;615016062.0;615016062.0;615016062.0
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393903058;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903058 - GUARDA E MANUTENÇÃO DA FROTA DO MECIR/RJ;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com mão-de-obra utilizada para a guarda e manutenção da frota do Mecir, no Rio de Janeiro, inclusive o material porventura necessário e a reposição de peças e acessórios, se fornecidos pelo executante do serviço, bem como as despesas com instalação do referido material, desde que não incluídas no preço de aquisição.;5065151.68;5038760.03;4760731.79;4760731.79
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393903096;"DISTRIBUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393903096 - REMUNERAÇÃO PELA VENDA DE CÉDULAS, MOEDAS E PEÇAS COMEMORATIVAS;Despesa;Primário;2;Meio Circulante;5;Distribuição de numerário;7;Registra as despesas com a remuneração pela venda de cédulas, moedas e peças comemorativas, decorrentes de convênios celebrados entre o Banco Central e outras instituições.;1121156.0;918138.52;445276.56;445276.56
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393905180;"DESTRUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393905180 - LOCOMOÇÃO URBANA;Despesa;Primário;2;Meio Circulante;5;Destruição de numerário;9;Registra as despesas com locomoção urbana realizada por meio de ônibus, táxi e outros veículos de transportes urbanos, para atender necessidades do serviço.;95.0;95.0;95.0;95.0
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393905207;"DESTRUIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393905207 - CONDUÇÃO, PASSAGENS E MULTAS POR REMARCAÇÃO DE VOO;Despesa;Primário;2;Meio Circulante;5;Destruição de numerário;9;Registra as despesas com condução e passagens realizadas com o serviço de destruição de numerário, quando da formação de equipes com servidores oriundos de localidades diferentes  daquela onde ocorrerá a destruição.;5000.0;4000.0;3110.43;3110.43
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393906017;"AÇÕES DE DESENVOLVIMENTO E PROMOÇÃO DO MEIO CIRCULANTE
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393906017 - PESQUISA;Despesa;Primário;2;Meio Circulante;5;Outras despesas;10;;416896.9;416896.9;416896.9;416896.9
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;3939903;"CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";3939903 - DESPESAS ACESSÓRIAS EM OPERAÇÕES DO  MEIO CIRCULANTE;Despesa;Primário;2;Meio Circulante;5;Outras despesas;10;Registra as despesas com tarifas, comissões, taxas administrativas, honorários, encargos (ex: contratação de despachante aduaneiro) e despesas com armazenamento de material, incidentes em operações do Meio Circulante.;807212.22;711197.8;711197.8;711197.8
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393901201;"AQUISIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393901201 - CONDUÇÃO, PASSAGENS E MULTAS POR REMARCAÇÃO DE VOO AO EXTERIOR;Despesa;Primário;2;Meio Circulante;5;Aquisição de numerário;6;Registra as despesas com condução e passagens ao exterior realizadas com o serviço de aquisição de numerário, para análise, acompanhamento da execução de ajustes e aprovação do papel fiduciário e seus elementos de segurança, bem como dos testes de impressão das cédulas a serem produzidas pela empresa contratada por este Banco Central ou para pesquisa, testes de insumos e elementos de segurança, coleta de subsídios e acompanhamento das diversas fases para a concepção e o desenvolvimento do projeto de cédulas e moedas.;40000.0;0.0;0.0;0.0
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393901218;"AQUISIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393901218 - DIÁRIAS NO EXTERIOR;Despesa;Primário;2;Meio Circulante;5;Aquisição de numerário;6;Registra as despesas com diárias no exterior realizadas com o serviço de aquisição de numerário, para análise, acompanhamento da execução de ajustes e aprovação do papel fiduciário e seus elementos de segurança, bem como dos testes de impressão das cédulas a serem produzidas pela empresa contratada por este Banco Central ou para pesquisa, testes de insumos e elementos de segurança, coleta de subsídios e acompanhamento das diversas fases para a concepção e o desenvolvimento do projeto de cédulas e moedas.;40000.0;0.0;0.0;0.0
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393901108;"AQUISIÇÃO DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393901108 - CONCEPÇÃO E DESENVOLVIMENTO DE      PROJETOS DE CÉDULAS E MOEDAS;Despesa;Primário;2;Meio Circulante;5;Aquisição de numerário;6;"Registra as despesas com a concepção e o desenvolvimento de projetos de cédulas e moedas tais como: (I) contratação de empresas especializadas para desenvolvimento de projeto gráfico e originações;  (II) contratação de pesquisas qualitativas para aferição da percepção da população quanto a elementos de segurança e outros aspectos que impactam na definição do projeto; (III) contratação de testes de insumos e elementos de segurança, de impressão e/ou de cunhagem; (IV) despesas relativas ao pagamento de direitos autorais, de direitos de imagem e de aquisição de imagens, necessários para a concepção e desenvolvimento de projetos de cédulas e moedas.";1233002.7;608003.7;319091.95;319091.95
+2024;713910016;MECIR;DIRAD;71 RIO DE JANEIRO-RJ;393902231;"ACONDICIONAMENTO E GUARDA DE NUMERÁRIO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS
+DESPESAS DO MEIO CIRCULANTE";393902231 - SEGURO PARA ESTOQUE DE NUMERÁRIO;Despesa;Primário;2;Meio Circulante;5;Guarda e segurança de numerário;8;Registra as despesas com a contratação de (i) serviços técnicos especializados em consultoria, gerenciamento e inspeção de risco e assessoria em seguros e (ii) pagamento de prêmio de seguros para estoque de numerário armazenado nas diversas instalações do Banco Central do Brasil.;14498.0;14498.0;14498.0;14498.0
+2024;400310015;DERAD;DIORF;40 BRASILIA-DF;3466012;"DESPESAS DE JUROS SOBRE OBRIGAÇÕES A PAGAR EM MOEDA LOCAL
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL";3466012 - DEVOLUÇÃO DE MULTAS E OUTRAS        PENALIDADES;Despesa;Primário;2;Outras Operações;6;Juros;1;Registra as despesas com a atualização monetária decorrente da devolução de multas e outras penalidades.;200000.0;200000.0;23.39;23.39
+2024;400310015;DERAD;DIORF;40 BRASILIA-DF;3980017;"DESPESAS DE ADMINISTRAÇÃO DE INSTITUIÇÕES SOB REGIMES DE RESOLUÇÃO
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";3980017 - SUPRIMENTO DE RECURSOS;Despesa;Primário;2;Outras Operações;6;Demais despesas;5;;3000000.0;949441.15;949441.15;949441.15
+2024;713010019;DEMAB;DIPOM;71 RIO DE JANEIRO-RJ;399030011;"ÁREA DE OPERAÇÕES DO MERCADO ABERTO
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399030011 - OUTRAS - PRIMÁRIAS;Despesa;Primário;2;Outras Operações;6;Indefinido;11;;18.0;18.0;18.0;18.0
+2024;402410016;DEBAN;DIPOM;40 BRASILIA-DF;399024010;"ÁREA BANCARIA E DE SISTEMA DE PAGAMENTOS
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399024010 - ENCARGOS NA DEVOLUÇÃO DE TARIFA STR;Despesa;Primário;2;Outras Operações;6;Demais despesas;5;;500.0;0.0;0.0;0.0
+2024;402410016;DEBAN;DIPOM;40 BRASILIA-DF;395001893;"DESPESAS DE ANULAÇÃO DE RECEITAS DE  AUTORIDADE MONETÁRIA DE EXERCÍCIOS ANTERIORES
+PRIMÁRIAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";395001893 - OUTRAS RECEITAS;Despesa;Primário;2;Outras Operações;6;Demais despesas;5;;1500.0;1500.0;1500.0;1500.0
+2024;401010015;DEINF;DIRAD;40 BRASILIA-DF;399010031;"ÁREA DE TECNOLOGIA DA INFORMAÇÃO
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399010031 - SERVIÇOS TÉCNICOS PROFISSIONAIS DE TECNOLOGIA DA INFORMAÇÃO  TI;Despesa;Primário;2;Outras Operações;6;Demais despesas;5;"Registra o valor das despesas com serviços prestados por profissionais técnicos na área de Tecnologia da Informação relacionadas à infraestrutura, às manutenções corretivas, preventivas e adaptativas de software em produção e às operações das reservas internacionais; à infraestrutura, às manutenções corretivas, preventivas e adaptativas de software em produção e às operações de mercado aberto; à infraestrutura, às manutenções corretivas, preventivas e adaptativas de software em produção do Sistema de Pagamentos Brasileiro e às operações da área bancária; e às plataformas de negociação eletrônica disponibilizadas por provedores de informação, exceto quando puder ser classificado como Aluguel de Software.";26480661.0;25073321.4;22794426.5;22794426.5
+2024;401010015;DEINF;DIRAD;40 BRASILIA-DF;399010017;"ÁREA DE TECNOLOGIA DA INFORMAÇÃO
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399010017 - SERVIÇOS DE INFORMAÇÕES POR MEIO ELETRÔNICO;Despesa;Primário;2;Outras Operações;6;Demais despesas;5;"Registra as despesas com serviços de informações nacionais e internacionais prestados por meio eletrônico relacionadas à infraestrutura e operações das reservas internacionais; à infraestrutura e operações de mercado aberto; à infraestrutura do Sistema de Pagamentos Brasileiro e operações da área bancária; e às plataformas de negociação eletrônica disponibilizadas por provedores de informação.";17439389.55;17200253.8;17112616.66;17112616.66
+2024;401010015;DEINF;DIRAD;40 BRASILIA-DF;399010024;"ÁREA DE TECNOLOGIA DA INFORMAÇÃO
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399010024 - SERVIÇOS DE TELEPROCESSAMENTO;Despesa;Primário;2;Outras Operações;6;Demais despesas;5;"Registra as despesas com serviços de teleprocessamento relacionadas à infraestrutura e operações das reservas internacionais; à infraestrutura e operações de mercado aberto; à infraestrutura do Sistema de Pagamentos Brasileiro e operações da área bancária; e às plataformas de negociação eletrônica disponibilizadas por provedores de informação.";11898799.0;11635233.29;11526294.07;11526294.07
+2024;401010015;DEINF;DIRAD;40 BRASILIA-DF;399010048;"ÁREA DE TECNOLOGIA DA INFORMAÇÃO
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";"399010048 - ALUGUEL DE ""SOFTWARES"" E            ""HARDWARES""";Despesa;Primário;2;Outras Operações;6;Demais despesas;5;"Registra as despesas com aluguel de programas ou equipamentos de processamento de dados relacionadas à infraestrutura e operações das reservas internacionais; à infraestrutura e operações de mercado aberto; à infraestrutura do Sistema de Pagamentos Brasileiro e operações da área bancária; e às plataformas de negociação eletrônica disponibilizadas por provedores de informação.";29887835.0;29222741.72;27626240.27;27626240.27
+2024;401010015;DEINF;DIRAD;40 BRASILIA-DF;399010055;"ÁREA DE TECNOLOGIA DA INFORMAÇÃO
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399010055 - MANUTENÇÃO E CONSERVAÇÃO DE EQUIPAMENTOS E PROGRAMAS DE PROCESSAMENTO DE DADOS;Despesa;Primário;2;Outras Operações;6;Demais despesas;5;"Registra o valor das despesas com serviços de manutenção e conservação de equipamentos de processamento de dados (hardware) e garantia de atualização e suporte técnico aos programas relacionados à infraestrutura e operações das reservas internacionais; à infraestrutura e operações de mercado aberto; à infraestrutura do Sistema de Pagamentos Brasileiro e operações da área bancária; e às plataformas de negociação eletrônica disponibilizadas por provedores de informação.";32247315.0;32175156.38;31737065.74;31737065.74
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3359026;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+DESPESAS DE CORREÇÃO CAMBIAL SOBRE OUTROS PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";3359026 - ORCAMENTO DE AUTORIDADE MONETARIA - NAO PRIMARIAS;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;;130220.1;0.0;62706.91;62706.91
+2024;400310015;DERAD;DIORF;40 BRASILIA-DF;399090037;"ÁREAS DIVERSAS DO BANCO CENTRAL
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399090037 - DEVOLUÇÃO DE MULTAS E OUTRAS        PENALIDADES RECEBIDAS;Despesa;Primário;2;Outras Operações;6;Demais despesas;5;"Registra as despesas com a devolução parcial ou integral de multas recebidas, decorrentes de: I) cancelamento em virtude de erro na cobrança de multa recebida em exercício anterior; II) decisão em pedido de reconsideração ou recurso; III) prescrição de prazo para julgamento de recurso se de responsabilidade do Banco. As devoluções motivadas por erro ocorrido em exercício anterior, se julgadas relevantes pelo Deafi, são reclassificadas para conta específica no patrimônio líquido:7720.05-3.";800000.0;800000.0;25387.85;25387.85
+2024;402910011;DERIN;DIREX;40 BRASILIA-DF;399029101;"ÁREA DE ORGANISMOS E ACORDOS INTERNACIONAIS
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399029101 - SERVIÇOS DE PROVEDOR DE INFORMAÇÃO POR MEIO ELETRÔNICO;Despesa;Primário;2;Outras Operações;6;Demais despesas;5;Registra as despesas com o pagamento pelo uso de ferramentas que permitem acesso a base de dados, análises, gráficos e relatórios disponibilizados por meio eletrônico, necessárias como provedores de informações, análises, cenários e projeções sobre assuntos de economia internacional.;130000.0;130000.0;124240.54;124240.54
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3463053;"DESPESAS DE JUROS COM OPERAÇÕES COMPROMISSADAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL";3463053 - VENDA COM COMPROMISSO DE RECOMPRA;Despesa;Financeiro;1;Mercado Aberto;2;Juros;1;;153293812819.02;0.0;153293812819.02;153293812819.02
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3514177;"DESPESAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDA LOCAL
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE AJUSTE A VALOR JUSTO DE DERIVATIVOS EM MOEDA LOCAL";3514177 - SWAP - TAXA DE JUROS EFETIVA - SELIC X VARIAÇÃO CAMBIAL - DÓLAR - LIQUIDAÇÃO DIÁRIA;Despesa;Financeiro;1;Mercado Aberto;2;Ajuste a valor justo;2;;133700981070.78;0.0;133700981070.78;133700981070.78
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;33503;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";33503 - DESPESAS DE CORREÇÃO CAMBIAL SOBRE  OBRIGAÇÕES POR OPERAÇÕES A LIQUIDAR EM MOEDAS ESTRANGEIRAS;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado devedor da correção cambial sobre obrigações por operações a liquidar em moedas estrangeiras. Seus subtítulos indicam o tipo da operação.;7872558637.57;0.0;3790995619.94;3790995619.94
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;399029936;"ÁREA DE ORGANISMOS E ACORDOS INTERNACIONAIS
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399029936 - OUTRAS - NO EXTERIOR - NÃO PRIMÁRIAS;Despesa;Financeiro;1;Área Externa;1;Demais despesas;5;;431310.51;0.0;207695.66;207695.66
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;310410036;"DESPESAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+DESPESAS DE OPERAÇÕES COM DERIVATIVOS EM MOEDAS ESTRANGEIRAS
+DIFERENÇAS NEGATIVAS DE COTAÇÃO NAS OPERAÇÕES DE FORWARD EM MOEDAS      ESTRANGEIRAS NO MERCADO EXTERNO
+CONTAS DE RESULTADO - DESPESAS";310410036 - FORWARD DE MOEDAS ESTRANGEIRAS;Despesa;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;5742819.14;0.0;2765429.03;2765429.03
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;300605026;"DESPESAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDAS ESTRANGEIRAS
+CONVÊNIO DE PAGAMENTOS E CRÉDITOS RECÍPROCOS - CCR
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDAS ESTRANGEIRAS";300605026 - REEMBOLSOS PARA LIQUIDAÇÃO APÓS COMPENSAÇÃO QUADRIMESTRAL;Despesa;Financeiro;1;Área Externa;1;Juros;1;;9050560.25;0.0;4358257.06;4358257.06
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3053054;"DESPESAS DE JUROS SOBRE OPERAÇÕES DE VENDA COM COMPROMISSO DE RECOMPRA EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDAS ESTRANGEIRAS";3053054 - COM TÍTULOS EM MOEDAS ESTRANGEIRAS;Despesa;Financeiro;1;Área Externa;1;Juros;1;;7244159830.68;0.0;3488392967.59;3488392967.59
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;305615011;"ALOCAÇÃO DE DES - FMI
+DESPESAS DE JUROS SOBRE CRÉDITOS A  PAGAR EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDAS ESTRANGEIRAS";305615011 - JUROS;Despesa;Financeiro;1;Área Externa;1;Juros;1;;7761642994.69;0.0;3737584685.11;3737584685.11
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;33008;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";33008 - DESPESAS DE CORREÇÃO CAMBIAL SOBRE  DISPONIBILIDADES EM MOEDAS          ESTRANGEIRAS;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado devedor da correção cambial sobre as disponibilidades em moedas estrangeiras do Banco Central.;10990613959.29;0.0;5292481300.97;5292481300.97
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;33541;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";33541 - DESPESAS DE CORREÇÃO CAMBIAL SOBRE OPERAÇÕES PASSIVAS COM DERIVATIVOS EM MOEDAS ESTRANGEIRAS;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado devedor da correção cambial sobre operações passivas com derivativos em moedas estrangeiras.;340948100.28;0.0;164182042.24;164182042.24
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;33565;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";33565 - DESPESAS DE CORREÇÃO CAMBIAL SOBRE  CRÉDITOS A PAGAR EM MOEDAS          ESTRANGEIRAS;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado devedor da correção cambial sobre créditos a pagar em moedas estrangeiras.;50835114560.59;0.0;24479423464.52;24479423464.52
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;33589;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";33589 - DESPESAS DE CORREÇÃO CAMBIAL SOBRE HAVERES DE ORGANISMOS FINANCEIROS INTERNACIONAIS EM MOEDAS ESTRANGEIRAS;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado devedor da correção cambial sobre haveres de organismos financeiros internacionais em moedas estrangeiras.;30947388442.89;0.0;14902577349.59;14902577349.59
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;33046;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";33046 - DESPESAS DE CORREÇÃO CAMBIAL SOBRE OPERAÇÕES ATIVAS COM DERIVATIVOS EM MOEDAS ESTRANGEIRAS;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado devedor da correção cambial sobre as operações ativas com derivativos em moedas estrangeiras.;125169233.92;0.0;60274688.24;60274688.24
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;33060;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";33060 - DESPESAS DE CORREÇÃO CAMBIAL SOBRE CRÉDITOS A RECEBER EM MOEDAS ESTRANGEIRAS;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado devedor da correção cambial sobre os créditos a receber em moedas estrangeiras.;342190984.82;0.0;164780547.77;164780547.77
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;33077;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";33077 - DESPESAS DE CORREÇÃO CAMBIAL SOBRE OPERAÇÕES COM OURO;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado devedor da correção cambial sobre as operações com ouro.;4635029438.0;0.0;2231977824.07;2231977824.07
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;33039;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";33039 - DESPESAS DE CORREÇÃO CAMBIAL SOBRE OPERAÇÕES COMPROMISSADAS ATIVAS EM MOEDAS ESTRANGEIRAS;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado devedor da correção cambial sobre as operações compromissadas ativas em moedas estrangeiras.;7340514923.81;0.0;3534792334.41;3534792334.41
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;33534;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";33534 - DESPESAS DE CORREÇÃO CAMBIAL SOBRE OPERAÇÕES COMPROMISSADAS PASSIVAS EM MOEDAS ESTRANGEIAS;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado devedor da correção cambial sobre operações compromissadas passivas em moedas estrangeiras.;48109316410.07;0.0;23166827480.78;23166827480.78
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3102503;"DESPESAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+DESPESAS DE AJUSTE A VALOR JUSTO    SOBRE RECURSOS EM MOEDAS            ESTRANGEIRAS SOB ADMINISTRAÇÃO      EXTERNA
+CONTAS DE RESULTADO - DESPESAS";3102503 - OPERAÇÕES COM QUOTAS DE EXCHANGE    TRADED FUND (ETF);Despesa;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;5444971117.85;0.0;2622001639.97;2622001639.97
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;33022;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";33022 - DESPESAS DE CORREÇÃO CAMBIAL SOBRE  RECURSOS EM MOEDAS ESTRANGEIRAS SOB ADMINISTRAÇÃO EXTERNA;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado devedor da correção cambial sobre os recursos em moedas estrangeiras sob administração externa.;5944604208.81;0.0;2862597734.15;2862597734.15
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3104202;"DESPESAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+DESPESAS DE OPERAÇÕES COM DERIVATIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";3104202 - AJUSTE A VALOR JUSTO NAS OPERAÇÕES  DE SWAP DE MOEDAS NO MERCADO        EXTERNO;Despesa;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;26715267.29;0.0;12864618.22;12864618.22
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3102101;"DESPESAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+DESPESAS DE AJUSTE A VALOR JUSTO    SOBRE RECURSOS EM MOEDAS            ESTRANGEIRAS SOB ADMINISTRAÇÃO      EXTERNA
+CONTAS DE RESULTADO - DESPESAS";3102101 - RECURSOS APLICADOS EM FUNDO DE      INVESTIMENTOS ADMINISTRADO PELO BIS;Despesa;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;14943845448.92;0.0;7196142353.46;7196142353.46
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;346128017;"CONTA DE PAGAMENTO INSTANTÂNEO (CONTA PI)
+DESPESAS DE JUROS COM DEPÓSITOS DE INSTITUIÇÕES FINANCEIRAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL";346128017 - INSTITUIÇÕES FINANCEIRAS DETENTORAS DE RESERVAS BANCÁRIAS;Despesa;Financeiro;1;Área Bancária;3;Juros;1;;2551798858.76;0.0;2551798858.76;2551798858.76
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3309021;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+DESPESAS DE CORREÇÃO CAMBIAL SOBRE  OUTROS ATIVOS EM MOEDAS             ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";3309021 - ORCAMENTO DE AUTORIDADE MONETARIA - NAO PRIMARIAS;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;;256546.17;0.0;123538.67;123538.67
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3107058;"DESPESAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+DESPESAS DE AJUSTE A VALOR JUSTO    NAS OPERAÇÕES COM OURO
+CONTAS DE RESULTADO - DESPESAS";3107058 - ESTOQUE DE OURO;Despesa;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;7610307200.68;0.0;3664709606.16;3664709606.16
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;310405106;"AJUSTE A VALOR JUSTO DAS POSIÇÕES NAS OPERAÇÕES COM FUTUROS EM MOEDAS ESTRANGEIRAS
+DESPESAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+DESPESAS DE OPERAÇÕES COM DERIVATIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";310405106 - FUTUROS;Despesa;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;475167836.52;0.0;228814959.65;228814959.65
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3105012;"DESPESAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+DESPESAS DE AJUSTE A VALOR JUSTO NAS OPERAÇÕES COM TÍTULOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";3105012 - TÍTULOS ESTRANGEIROS DE RENDA FIXA;Despesa;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;134001279020.26;0.0;64527720302.76;64527720302.76
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;33015;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";33015 - DESPESAS DE CORREÇÃO CAMBIAL COM DEPÓSITOS A PRAZO EM INSTITUIÇÕES FINANCEIRAS EM MOEDAS ESTRANGEIRAS;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado devedor da correção cambial sobre os depósitos a prazo em instituições financeiras em moedas estrangeiras.;5531115989.78;0.0;2663484320.15;2663484320.15
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3305018;"DESPESAS DE CORREÇÃO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+DESPESAS DE CORREÇÃO CAMBIAL SOBRE OPERAÇÕES COM TÍTULOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";3305018 - TITULOS ESTRANGEIROS DE RENDA FIXA;Despesa;Financeiro;1;Área Externa;1;Correção cambial;3;;132115785200.2;0.0;63619769134.36;63619769134.36
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;399025916;"ÁREA DE OPERAÇÕES DAS RESERVAS INTERNACIONAIS
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399025916 - OUTRAS - NO PAÍS - NÃO PRIMÁRIAS;Despesa;Financeiro;1;Área Externa;1;Demais despesas;5;;0.12;0.0;0.06;0.06
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3000904;"CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDAS ESTRANGEIRAS
+DESPESAS DE JUROS SOBRE DISPONIBILIDADES EM MOEDAS ESTRANGEIRAS";3000904 - DIVERSAS;Despesa;Financeiro;1;Área Externa;1;Juros;1;Registra despesas de juros diversas sobre as disponibilidades em moedas estrangeiras, tais como juros sobre saldo a descoberto em conta movimento no exterior - Overdraft -, juros pagos no exterior por atraso na entrega de moeda estrangeira, uso de fundos e juros pagos pela manutenção de saldo credor em correspondente financeiro em conta/moeda com política de saldo reduzido.;8019.62;0.0;3861.81;3861.81
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;310410177;"DESPESAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+DESPESAS DE OPERAÇÕES COM DERIVATIVOS EM MOEDAS ESTRANGEIRAS
+DIFERENÇAS NEGATIVAS DE COTAÇÃO NAS OPERAÇÕES DE FORWARD EM MOEDAS      ESTRANGEIRAS NO MERCADO EXTERNO
+CONTAS DE RESULTADO - DESPESAS";310410177 - TO BE ANOUNCED - TBA;Despesa;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;13175099055.19;0.0;6344410389.29;6344410389.29
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3462872;"DESPESAS DE JUROS SOBRE OBRIGAÇÕES COM O GOVERNO FEDERAL EM MOEDA LOCAL
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL";3462872 - DEPÓSITOS A ORDEM DO GOVERNO FEDERAL;Despesa;Financeiro;1;Tesouro Nacional;4;Juros;1;Registra as despesas com a remuneração positiva dos recursos à ordem do Governo Federal, depositados no Banco Central, no título contábil 6287-3.;193427553000.0;0.0;152622192200.1;152622192200.1
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;346129016;"DEPÓSITO DE GARANTIA EM ESPÉCIE VINCULADA A LINHAS FINANCEIRAS DE LIQUIDEZ - LFL
+DESPESAS DE JUROS COM DEPÓSITOS DE INSTITUIÇÕES FINANCEIRAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL";346129016 - INSTITUIÇÕES FINANCEIRAS DETENTORAS DE RESERVAS BANCÁRIAS;Despesa;Financeiro;1;Área Bancária;3;Juros;1;;34.46;0.0;34.46;34.46
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;346115501;"RECOLHIMENTOS COMPULSÓRIOS
+DESPESAS DE JUROS COM DEPÓSITOS DE INSTITUIÇÕES FINANCEIRAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL";346115501 - INSTITUIÇÕES DO SBPE;Despesa;Financeiro;1;Área Bancária;3;Juros;1;;13503398124.97;0.0;13503398124.97;13503398124.97
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;346126019;"DESPESAS DE JUROS COM DEPÓSITOS DE INSTITUIÇÕES FINANCEIRAS EM MOEDA LOCAL
+DEPÓSITOS DO SBPE
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL";346126019 - NÃO APLICADOS EM FINANCIAMENTOS IMOBILIÁRIOS - R. 2458/97 - MENOR MÉDIA ARITMÉTICA;Despesa;Financeiro;1;Área Bancária;3;Juros;1;;1096013.77;0.0;1096013.77;1096013.77
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;346115240;"RECOLHIMENTOS COMPULSÓRIOS
+DESPESAS DE JUROS COM DEPÓSITOS DE INSTITUIÇÕES FINANCEIRAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL";346115240 - RECURSOS A PRAZO;Despesa;Financeiro;1;Área Bancária;3;Juros;1;;40799640879.15;0.0;40799640879.15;40799640879.15
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;346130012;"DESPESAS DE JUROS COM DEPÓSITOS DE INSTITUIÇÕES FINANCEIRAS EM MOEDA LOCAL
+DEPÓSITOS VOLUNTÁRIOS A PRAZO
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL";346130012 - INSTITUIÇÕES DETENTORAS DE RESERVAS BANCÁRIAS;Despesa;Financeiro;1;Área Bancária;3;Juros;1;;11576198266.1;0.0;11576198266.1;11576198266.1
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;346130029;"DESPESAS DE JUROS COM DEPÓSITOS DE INSTITUIÇÕES FINANCEIRAS EM MOEDA LOCAL
+DEPÓSITOS VOLUNTÁRIOS A PRAZO
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL";346130029 - INSTITUIÇÕES AUTORIZADAS A          FUNCIONAR PELO BANCO CENTRAL, NÃO   DETENTORAS DE RESERVAS BANCÁRIAS;Despesa;Financeiro;1;Área Bancária;3;Juros;1;;2980604664.51;0.0;2980604664.51;2980604664.51
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;346128024;"CONTA DE PAGAMENTO INSTANTÂNEO (CONTA PI)
+DESPESAS DE JUROS COM DEPÓSITOS DE INSTITUIÇÕES FINANCEIRAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL";346128024 - INSTITUIÇÕES AUTORIZADAS A FUNCIONAR PELO BANCO CENTRAL, NÃO DETENTORAS DE RESERVAS BANCÁRIAS;Despesa;Financeiro;1;Área Bancária;3;Juros;1;;272838079.52;0.0;272838079.52;272838079.52
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;346928011;"CONTA DE PAGAMENTO INSTANTÂNEO (CONTA PI)
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL
+DESPESAS DE JUROS SOBRE OUTROS PASSIVOS EM MOEDA LOCAL";346928011 - INSTITUIÇÕES NÃO FINANCEIRAS DETENTORAS DE CONTA DE LIQUIDAÇÃO;Despesa;Financeiro;1;Área Bancária;3;Juros;1;;510597458.62;0.0;510597458.62;510597458.62
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3469019;"CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL
+DESPESAS DE JUROS SOBRE OUTROS PASSIVOS EM MOEDA LOCAL";3469019 - DEPÓSITOS CORRESPONDENTES A MOEDA ELETRÔNICA DE INSTITUIÇÕES DE PAGAMENTO;Despesa;Financeiro;1;Área Bancária;3;Juros;1;;3225810445.5;0.0;3225810445.5;3225810445.5
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3590012;"DESPESAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDA LOCAL
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE AJUSTE A VALOR JUSTO DE OUTROS ATIVOS EM MOEDA LOCAL";3590012 - PARTICIPAÇÕES SOCIETÁRIAS;Despesa;Financeiro;1;Outras Operações;6;Ajuste a valor justo;2;;3930.07;0.0;3930.07;3930.07
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;37695;"DESPESAS COM CORREÇÃO CAMBIAL DE OPERAÇÕES REFERENCIADAS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";37695 - DESPESAS DE CORREÇÃO CAMBIAL SOBRE OUTROS PASSIVOS EM MOEDA LOCAL;Despesa;Financeiro;1;Outras Operações;6;Correção cambial;3;Registra o resultado devedor da correção cambial sobre outros passivos em moeda local.;11622991.19;0.0;11622991.19;11622991.19
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;37657;"DESPESAS COM CORREÇÃO CAMBIAL DE OPERAÇÕES REFERENCIADAS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - DESPESAS";37657 - DESPESAS DE CORREÇÃO CAMBIAL SOBRE  HAVERES DE ORGANISMOS FINANCEIROS   INTERNACIONAIS EM MOEDA LOCAL;Despesa;Financeiro;1;Outras Operações;6;Correção cambial;3;Registra o resultado devedor da correção cambial sobre haveres de organismos financeiros internacionais em moeda local.;16740106.68;0.0;16740106.68;16740106.68
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3466043;"DESPESAS DE JUROS SOBRE OBRIGAÇÕES A PAGAR EM MOEDA LOCAL
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL";3466043 - ACERTO DE CONTAS MP 45/02;Despesa;Financeiro;1;Outras Operações;6;Juros;1;;1817.43;0.0;1817.43;1817.43
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;3466029;"DESPESAS DE JUROS SOBRE OBRIGAÇÕES A PAGAR EM MOEDA LOCAL
+CONTAS DE RESULTADO - DESPESAS
+DESPESAS DE JUROS EM MOEDA LOCAL";3466029 - DEVOLUÇÃO DE ENCARGOS E CUSTOS FINANCEIROS;Despesa;Financeiro;1;Outras Operações;6;Juros;1;Registra as despesas com a atualização monetária decorrente da devolução de encargos e custos financeiros.;15.79;0.0;15.79;15.79
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;399090044;"ÁREAS DIVERSAS DO BANCO CENTRAL
+DESPESAS DIVERSAS
+CONTAS DE RESULTADO - DESPESAS
+OUTRAS DESPESAS";399090044 - DEVOLUÇÃO DE ENCARGOS FINANCEIROS   RECEBIDOS;Despesa;Financeiro;1;Outras Operações;6;Demais despesas;5;"Registra as despesas com a devolução parcial ou integral de encargos financeiros recebidos, decorrentes de: I) cancelamento em virtude de erro na cobrança do encargo financeiro recebido em exercício anterior; II) devolução do encargo financeiro recebido em exercício anterior ao da devolução. As devoluções motivadas por erro ocorrido em exercício anterior, se julgadas relevantes pelo Deafi, são reclassificadas para conta específica no patrimônio líquido:7720.05-3.";202102.36;0.0;202102.36;202102.36
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8412016;"RECEITAS DE JUROS SOBRE CRÉDITOS COM O GOVERNO FEDERAL EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8412016 - TRIBUTOS RECOLHIDOS A MAIOR;Receita;Não Afeta;3;Tesouro Nacional;4;Juros;1;;19853.24;0.0;19853.24;19853.24
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;841630024;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CRÉDITOS COM SERVIDORES
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";841630024 - INDENIZAÇÕES RELATIVAS A AÇÕES DE CAPACITAÇÃO DA UNIVERSIDADE BANCO CENTRAL DO BRASIL;Receita;Não Afeta;3;Outras Operações;6;Juros;1;;10127.33;0.0;10127.33;10127.33
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8901273;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DE MULTAS PARCELADAS EM MOEDA LOCAL";8901273 - ÁREA DO DEGEF;Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;;1200000.0;0.0;1200000.0;1200000.0
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;890403013;"RECEITAS DE MULTAS NÃO PARCELADAS EM MOEDA LOCAL
+ÁREA DO DERAD
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";890403013 - MULTAS RECONHECIDAS NO MOMENTO DA NOTIFICAÇÃO;Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;;27591369.94;0.0;27591369.94;27591369.94
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;890417016;"RECEITAS DE MULTAS NÃO PARCELADAS EM MOEDA LOCAL
+ÁREA DO DEMAP
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";890417016 - MULTAS RECONHECIDAS NO MOMENTO DA NOTIFICAÇÃO;Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;;15457.12;0.0;15457.12;15457.12
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;890427013;"RECEITAS DE MULTAS NÃO PARCELADAS EM MOEDA LOCAL
+ÁREA DO DEGEF
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";890427013 - MULTAS RECONHECIDAS NO MOMENTO DA NOTIFICAÇÃO;Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;;2400000.0;0.0;2400000.0;2400000.0
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;841626021;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+RENTABILIDADE POSITIVA SOBRE RECURSOS ADMINISTRADOS PELA CENTRUS
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";841626021 - DISTRIBUIÇÃO AO PATROCINADOR DE PARCELA DA RESERVA ESPECIAL DO PLANO BÁSICO DE BENEFÍCIOS - RECURSOS A DISPONIBILIZAR;Receita;Não Afeta;3;Outras Operações;6;Juros;1;;26206357.52;0.0;26206357.52;26206357.52
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;841630055;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CRÉDITOS COM SERVIDORES
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";841630055 - VALORES PAGOS A MAIOR - RESSARCIMENTO FALTA GREVE;Receita;Não Afeta;3;Outras Operações;6;Juros;1;;117.51;0.0;117.51;117.51
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8986171;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DE MULTAS DE MORA";8986171 - SOBRE MULTAS PARCELADAS;Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;;14268.49;0.0;14268.49;14268.49
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8901039;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DE MULTAS PARCELADAS EM MOEDA LOCAL";8901039 - ÁREA DO DERAD;Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;;1696840.0;0.0;1696840.0;1696840.0
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8901156;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DE MULTAS PARCELADAS EM MOEDA LOCAL";8901156 - ÁREA DA PROCURADORIA-GERAL;Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;;80234.54;0.0;80234.54;80234.54
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8416067;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8416067 - MULTAS PARCELADAS - ÁREA DA PROCURADORIA-GERAL;Receita;Não Afeta;3;Outras Operações;6;Juros;1;;130273.62;0.0;130273.62;130273.62
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8416115;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8416115 - DÍVIDA ATIVA PARCELADA;Receita;Não Afeta;3;Outras Operações;6;Juros;1;;7531188.8;0.0;7531188.8;7531188.8
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;841990142;"DIVERSAS
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL
+RECEITAS DE JUROS SOBRE OUTROS ATIVOS EM MOEDA LOCAL";841990142 - OUTROS CRÉDITOS PARCELADOS - ÁREA DA PROCURADORIA-GERAL;Receita;Não Afeta;3;Outras Operações;6;Juros;1;;37752.1;0.0;37752.1;37752.1
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;89162;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";89162 - RECEITAS DE DÍVIDA ATIVA PARCELADAS EM MOEDA LOCAL;Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;Registra as receitas decorrentes do parcelamento de créditos inscritos na Dívida Ativa do Banco Central, a receber em moeda local.;7230117.25;0.0;7230117.25;7230117.25
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8986102;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DE MULTAS DE MORA";8986102 - SOBRE DÍVIDA ATIVA PARCELADA;Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;;130510.86;0.0;130510.86;130510.86
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;898690141;"SOBRE OUTROS CRÉDITOS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DE MULTAS DE MORA";898690141 - OUTROS CRÉDITOS PARCELADOS - ÁREA     DA PROCURADORIA-GERAL;Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;;752.57;0.0;752.57;752.57
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899015914;"ÁREA DA PROCURADORIA-GERAL
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899015914 - OUTROS CRÉDITOS PARCELADOS;Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;;72512.71;0.0;72512.71;72512.71
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8416074;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8416074 - MULTAS PARCELADAS - EXCETO DA ÁREA DA PROCURADORIA-GERAL;Receita;Não Afeta;3;Outras Operações;6;Juros;1;;920455.11;0.0;920455.11;920455.11
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8416902;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8416902 - OUTROS CRÉDITOS PARCELADOS;Receita;Não Afeta;3;Outras Operações;6;Juros;1;;841.17;0.0;841.17;841.17
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;89076;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";89076 - RECEITAS DE CONTRIBUIÇÕES PECUNIÁRIAS - TERMO DE COMPROMISSO PARA AJUSTAMENTO DE CONDUTA POR ENTIDADES FISCALIZADAS PELO BCB;Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;Registra as receitas com contribuições pecuniárias a receber, em razão da assinatura de Termo de Compromisso para ajustamento de conduta por entidades fiscalizadas pelo BCB.;75517139.69;0.0;75517139.69;75517139.69
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899017912;"ÁREA DE INFRAESTRUTURA E GESTÃO PATRIMONIAL
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899017912 - OUTRAS - NÃO AFETA ESTATÍSTICA FISCAL;Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;;100530.36;0.0;100530.36;100530.36
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;893509141;"RECEITAS COM OUTROS CRÉDITOS A RECEBER EM MOEDA LOCAL
+TARIFAS E RESSARCIMENTOS DE CUSTOS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";893509141 - RESSARCIMENTO DE SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO (RESSARCE);Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;;15067.81;0.0;15067.81;15067.81
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8416043;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8416043 - MULTAS NÃO PARCELADAS ATIVADAS - EXCETO DA ÁREA DA PROCURADORIA-GERAL;Receita;Não Afeta;3;Outras Operações;6;Indefinido;11;;1592869.19;0.0;1592869.19;1592869.19
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8986047;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DE MULTAS DE MORA";8986047 - SOBRE MULTAS NÃO PARCELADAS ATIVADAS;Receita;Não Afeta;3;Outras Operações;6;Demais receitas;4;;150432.02;0.0;150432.02;150432.02
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899030016;"ÁREA DE OPERAÇÕES DO MERCADO ABERTO
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899030016 - VALOR PAGO POR INSTITUIÇÃO EM CASO DE DESCUMPRIMENTO DE CLÁUSULAS DE OPERAÇÕES;Receita;Primário;2;Mercado Aberto;2;Demais receitas;4;;8908.34;0.0;6838.11;6838.11
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899025928;"ÁREA DE OPERAÇÕES DAS RESERVAS INTERNACIONAIS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899025928 - OUTRAS - NO EXTERIOR - PRIMÁRIAS;Receita;Primário;2;Área Externa;1;Demais receitas;4;;498600.57;0.0;498600.57;498600.57
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899029010;"ÁREA DE OPERAÇÕES COM ORGANISMOS E ACORDOS INTERNACIONAIS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899029010 - BANCO DE COMPENSAÇÕES INTERNACIONAIS - BIS - DIVIDENDOS;Receita;Primário;2;Área Externa;1;Demais receitas;4;;8281985.51;0.0;8281985.51;8281985.51
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899025203;"ÁREA DE OPERAÇÕES DAS RESERVAS INTERNACIONAIS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899025203 - TAXA POR FALHA NA LIQUIDAÇÃO DE OPERAÇÕES COM TÍTULOS EM MOEDAS ESTRANGEIRAS OU NO RECEBIMENTO/ENTREGA DE MARGEM - FAIL CHARGE;Receita;Primário;2;Área Externa;1;Demais receitas;4;;223251.78;0.0;223251.78;223251.78
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8359014;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+RECEITAS DE CORREÇÃO CAMBIAL SOBRE OUTROS PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";8359014 - PRIMÁARIAS;Receita;Primário;2;Área Externa;1;Correção cambial;3;;126491.2;0.0;126491.2;126491.2
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8903051;"RECEITAS DE MULTAS NÃO PARCELADAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";8903051 - ÁREA DO DEROP;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;2680000.0;0.0;2680000.0;2680000.0
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899018038;"ÁREA DE GESTÃO DE PESSOAS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899018038 - EMISSÃO DE SEGUNDA VIA DO CARTÃO DO PASBC;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;7.0;0.0;7.0;7.0
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899018076;"ÁREA DE GESTÃO DE PESSOAS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899018076 - RESSARCIMENTO DOS CUSTOS DE PROCESSAMENTO DAS CONSIGNAÇÕES EM FOLHA DE PAGAMENTO;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;162869.28;0.0;162869.28;162869.28
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;893509165;"RECEITAS COM OUTROS CRÉDITOS A RECEBER EM MOEDA LOCAL
+TARIFAS E RESSARCIMENTOS DE CUSTOS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";893509165 - RESSARCIMENTO, PELO CUSTODIANTE, DE DESPESAS COM O TRANSPORTE DE NUMERÁRIO;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;8455430.72;0.0;8455430.72;8455430.72
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8416108;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8416108 - DÍVIDA ATIVA NÃO PARCELADA;Receita;Primário;2;Outras Operações;6;Juros;1;;18586852.49;0.0;18586852.49;18586852.49
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899039017;"ÁREA DE MEIO CIRCULANTE
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899039017 - DIFERENÇAS DE CAIXA;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;3095.0;0.0;3095.0;3095.0
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;89100;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";89100 - RECEITAS DE DÍVIDA ATIVA EM MOEDA   LOCAL;Receita;Primário;2;Outras Operações;6;Demais receitas;4;Registra as receitas decorrentes do recebimento de créditos inscritos na Dívida Ativa do Banco Central.;10363268.33;0.0;10363268.33;10363268.33
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;89203;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";89203 - RECEITAS COM IMÓVEIS;Receita;Primário;2;Outras Operações;6;Demais receitas;4;Registra as receitas provenientes da utilização de imóveis de propriedade do Banco Central, tais como aluguéis e taxas de ocupação.;37317.6;0.0;37317.6;37317.6
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8903439;"RECEITAS DE MULTAS NÃO PARCELADAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";8903439 - ÁREA DO DECEM;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;5350000.0;0.0;5350000.0;5350000.0
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;893509017;"RECEITAS COM OUTROS CRÉDITOS A RECEBER EM MOEDA LOCAL
+TARIFAS E RESSARCIMENTOS DE CUSTOS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";893509017 - TARIFA PELO USO DO STR;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;21630685.09;0.0;21630685.09;21630685.09
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;893509024;"RECEITAS COM OUTROS CRÉDITOS A RECEBER EM MOEDA LOCAL
+TARIFAS E RESSARCIMENTOS DE CUSTOS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";893509024 - RESSARCIMENTO DE CUSTOS DO SELIC;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;12374168.04;0.0;12374168.04;12374168.04
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;893509031;"RECEITAS COM OUTROS CRÉDITOS A RECEBER EM MOEDA LOCAL
+TARIFAS E RESSARCIMENTOS DE CUSTOS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";893509031 - RESSARCIMENTO DE CUSTOS PELO USO DO SISBACEN;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;435818708.04;0.0;435818708.04;435818708.04
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;893565037;"RECEITAS COM OUTROS CRÉDITOS A RECEBER EM MOEDA LOCAL
+TAXAS DE ADMINISTRAÇÃO DOS FUNDOS E PROGRAMAS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";893565037 - PROAGRO;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;7621258.12;0.0;7621258.12;7621258.12
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8986016;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DE MULTAS DE MORA";8986016 - SOBRE MULTAS NÃO PARCELADAS;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;91427.44;0.0;91427.44;91427.44
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8986023;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DE MULTAS DE MORA";8986023 - SOBRE DÍVIDA ATIVA NÃO PARCELADA;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;2567932.66;0.0;2567932.66;2567932.66
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8986030;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DE MULTAS DE MORA";8986030 - SOBRE RESSARCIMENTO/COBERTURA DE CUSTOS E COBRANÇA DE TARIFAS;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;493.97;0.0;493.97;493.97
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899013909;"ÁREA DE CONTABILIDADE E EXECUÇÃO FINANCEIRA
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899013909 - OUTRAS - PRIMÁRIAS;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;0.29;0.0;0.29;0.29
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899015907;"ÁREA DA PROCURADORIA-GERAL
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899015907 - OUTRAS - PRIMÁRIAS;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;7489143.12;0.0;7489143.12;7489143.12
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899017905;"ÁREA DE INFRAESTRUTURA E GESTÃO PATRIMONIAL
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899017905 - OUTRAS - PRIMÁRIAS;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;125371.66;0.0;125371.66;125371.66
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899018904;"ÁREA DE GESTÃO DE PESSOAS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899018904 - OUTRAS - PRIMÁRIAS;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;4684050.0;0.0;4684050.0;4684050.0
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899039024;"ÁREA DE MEIO CIRCULANTE
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899039024 - VENDA DE CÉDULAS, MOEDAS E PEÇAS COMEMORATIVAS;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;3380840.0;0.0;3380840.0;3380840.0
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;890415025;"RECEITAS DE MULTAS NÃO PARCELADAS EM MOEDA LOCAL
+ÁREA DA PROCURADORIA-GERAL
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";890415025 - MULTAS RECONHECIDAS NO EFETIVO RECEBIMENTO;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;44690.43;0.0;44690.43;44690.43
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899015017;"ÁREA DA PROCURADORIA-GERAL
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899015017 - HONORÁRIOS ADVOCATÍCIOS;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;28042.84;0.0;28042.84;28042.84
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899039907;"ÁREA DE MEIO CIRCULANTE
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899039907 - OUTRAS - PRIMÁRIAS;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;30489806.26;0.0;30489806.26;30489806.26
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8416160;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8416160 - HONORÁRIOS ADVOCATÍCIOS;Receita;Primário;2;Outras Operações;6;Juros;1;;131007.87;0.0;131007.87;131007.87
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8986164;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DE MULTAS DE MORA";8986164 - SOBRE HONORÁRIOS ADVOCATÍCIOS;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;2392.64;0.0;2392.64;2392.64
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899039031;"ÁREA DE MEIO CIRCULANTE
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899039031 - TARIFA PELA ANÁLISE E CUSTOS DE REPOSIÇÃO DE CÉDULAS DANIFICADAS POR DISPOSITIVOS ANTIFURTO;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;2243970.0;0.0;2243970.0;2243970.0
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8903154;"RECEITAS DE MULTAS NÃO PARCELADAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";8903154 - ÁREA DA PROCURADORIA-GERAL;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;25000.0;0.0;25000.0;25000.0
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8416012;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8416012 - MULTAS NÃO PARCELADAS - EXCETO DA ÁREA DA PROCURADORIA-GERAL;Receita;Primário;2;Outras Operações;6;Juros;1;;261711.43;0.0;261711.43;261711.43
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8903202;"RECEITAS DE MULTAS NÃO PARCELADAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";8903202 - ÁREA DO DEMAP;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;226718.73;0.0;226718.73;226718.73
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;841635098;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+DEVEDORES DIVERSOS
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";841635098 - RESSARCIMENTO DE CUSTOS E TARIFAS EM ATRASO;Receita;Primário;2;Outras Operações;6;Juros;1;;254.45;0.0;254.45;254.45
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8903037;"RECEITAS DE MULTAS NÃO PARCELADAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";8903037 - ÁREA DO DERAD;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;8726169.84;0.0;8726169.84;8726169.84
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;893509127;"RECEITAS COM OUTROS CRÉDITOS A RECEBER EM MOEDA LOCAL
+TARIFAS E RESSARCIMENTOS DE CUSTOS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";893509127 - RESSARCIMENTO POR ERRO/ATRASO NO    RECOLHIMENTO DE TRIBUTOS;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;20.83;0.0;20.83;20.83
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8416050;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8416050 - MULTAS NÃO PARCELADAS - ÁREA DA PROCURADORIA-GERAL;Receita;Primário;2;Outras Operações;6;Juros;1;;54038.75;0.0;54038.75;54038.75
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;898690158;"SOBRE OUTROS CRÉDITOS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DE MULTAS DE MORA";898690158 - OUTROS CRÉDITOS NÃO PARCELADOS - ÁREA DA PROCURADORIA-GERAL;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;36198.77;0.0;36198.77;36198.77
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;893509134;"RECEITAS COM OUTROS CRÉDITOS A RECEBER EM MOEDA LOCAL
+TARIFAS E RESSARCIMENTOS DE CUSTOS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";893509134 - RESSARCIMENTO - VIAGENS - ORGANISMOS INTERNACIONAIS;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;62299.55;0.0;62299.55;62299.55
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;893509907;"RECEITAS COM OUTROS CRÉDITOS A RECEBER EM MOEDA LOCAL
+TARIFAS E RESSARCIMENTOS DE CUSTOS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";893509907 - RESSARCIMENTOS DIVERSOS - PRIMÁRIA;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;143088.32;0.0;143088.32;143088.32
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8903271;"RECEITAS DE MULTAS NÃO PARCELADAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";8903271 - ÁREA DO DEGEF;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;171283.2;0.0;171283.2;171283.2
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;890403020;"RECEITAS DE MULTAS NÃO PARCELADAS EM MOEDA LOCAL
+ÁREA DO DERAD
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";890403020 - MULTAS RECONHECIDAS NO EFETIVO RECEBIMENTO;Receita;Primário;2;Outras Operações;6;Demais receitas;4;;12500.0;0.0;12500.0;12500.0
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8514103;"RECEITAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE AJUSTE A VALOR JUSTO DE DERIVATIVOS EM MOEDA LOCAL";8514103 - SWAP DE MOEDAS NO MERCADO INTERNO - CUPOM CAMBIAL X    SELIC;Receita;Financeiro;1;Mercado Aberto;2;Ajuste a valor justo;2;;5916665375.2;0.0;4541679042.34;4541679042.34
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;841307034;"OPERAÇÕES DE REDESCONTO
+RECEITAS DE JUROS COM OPERAÇÕES COMPROMISSADAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";841307034 - COMPROMISSO DE REVENDA - OPERAÇÕES NO SISTEMA DE PAGAMENTOS INSTANTÂNEOS;Receita;Financeiro;1;Mercado Aberto;2;Juros;1;;78644.55;0.0;60368.18;60368.18
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;841307010;"OPERAÇÕES DE REDESCONTO
+RECEITAS DE JUROS COM OPERAÇÕES COMPROMISSADAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";841307010 - COMPROMISSO DE REVENDA;Receita;Financeiro;1;Mercado Aberto;2;Juros;1;;5243001.19;0.0;4024569.1;4024569.1
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8413101;"RECEITAS DE JUROS COM OPERAÇÕES COMPROMISSADAS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8413101 - EMPRÉSTIMOS DE TÍTULOS;Receita;Financeiro;1;Mercado Aberto;2;Juros;1;;126271.7;0.0;96927.15;96927.15
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8415020;"RECEITAS DE JUROS COM TÍTULOS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8415020 - LTN;Receita;Financeiro;1;Mercado Aberto;2;Juros;1;;74538406208.09;0.0;57216268938.16;57216268938.16
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8415116;"RECEITAS DE JUROS COM TÍTULOS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8415116 - LFT;Receita;Financeiro;1;Mercado Aberto;2;Juros;1;;84026108353.74;0.0;64499103991.74;64499103991.74
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8415147;"RECEITAS DE JUROS COM TÍTULOS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8415147 - NTN-B;Receita;Financeiro;1;Mercado Aberto;2;Juros;1;;107325526110.97;0.0;82383920964.87;82383920964.87
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8102508;"RECEITAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+RECEITAS DE AJUSTE A VALOR JUSTO SOBRE RECURSOS EM MOEDAS ESTRANGEIRAS SOB ADMINISTRAÇÃO EXTERNA
+CONTAS DE RESULTADO - RECEITAS";8102508 - OPERAÇÕES COM QUOTAS DE EXCHANGE    TRADED FUND (ETF);Receita;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;8604969363.87;0.0;8604969363.87;8604969363.87
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8415219;"RECEITAS DE JUROS COM TÍTULOS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8415219 - NTN-F;Receita;Financeiro;1;Mercado Aberto;2;Juros;1;;61813737594.97;0.0;47448712874.71;47448712874.71
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8415673;"RECEITAS DE JUROS COM TÍTULOS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8415673 - NTN-P;Receita;Financeiro;1;Mercado Aberto;2;Juros;1;;5933.15;0.0;4554.33;4554.33
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8514172;"RECEITAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE AJUSTE A VALOR JUSTO DE DERIVATIVOS EM MOEDA LOCAL";8514172 - SWAP - TAXA DE JUROS EFETIVA - SELIC X VARIAÇÃO CAMBIAL - DÓLAR - LIQUIDAÇÃO DIÁRIA;Receita;Financeiro;1;Mercado Aberto;2;Ajuste a valor justo;2;;28074989598.1;0.0;21550583611.84;21550583611.84
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8000909;"CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS
+RECEITAS DE JUROS SOBRE DISPONIBILIDADES EM MOEDAS ESTRANGEIRAS";8000909 - DIVERSAS;Receita;Financeiro;1;Área Externa;1;Juros;1;Registra receitas de juros diversas sobre as disponibilidades em moedas estrangeiras, tais como devoluções de juros sobre saldo a descoberto em conta movimento no exterior - Overdraft -, ressarcimento de juros pagos no exterior por atraso na entrega de moeda estrangeira e uso de fundos.;121724.08;0.0;121724.08;121724.08
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;800020046;"DEPÓSITOS À VISTA NO EXTERIOR
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS
+RECEITAS DE JUROS SOBRE DISPONIBILIDADES EM MOEDAS ESTRANGEIRAS";800020046 - OUTROS DEPÓSITOS - FUNDO MONETÁRIO INTERNACIONAL;Receita;Financeiro;1;Área Externa;1;Juros;1;;30845637.81;0.0;30845637.81;30845637.81
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;83584;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";83584 - RECEITAS DE CORREÇÃO CAMBIAL SOBRE HAVERES DE ORGANISMOS FINANCEIROS INTERNACIONAIS EM MOEDAS ESTRANGEIRAS;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado credor da correção cambial sobre haveres de organismos financeiros internacionais em moedas estrangeiras.;1911833152.42;0.0;1911833152.42;1911833152.42
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;83041;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";83041 - RECEITAS DE CORREÇÃO CAMBIAL SOBRE OPERAÇÕES ATIVAS COM DERIVATIVOS EM MOEDAS ESTRANGEIRAS;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado credor da correção cambial sobre as operações ativas com derivativos em moedas estrangeiras.;105431790.12;0.0;105431790.12;105431790.12
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;800020015;"DEPÓSITOS À VISTA NO EXTERIOR
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS
+RECEITAS DE JUROS SOBRE DISPONIBILIDADES EM MOEDAS ESTRANGEIRAS";800020015 - CONTA MOVIMENTO;Receita;Financeiro;1;Área Externa;1;Juros;1;;113191419.24;0.0;113191419.24;113191419.24
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;800020039;"DEPÓSITOS À VISTA NO EXTERIOR
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS
+RECEITAS DE JUROS SOBRE DISPONIBILIDADES EM MOEDAS ESTRANGEIRAS";800020039 - DIREITOS ESPECIAIS DE SAQUE - FUNDO MONETÁRIO INTERNACIONAL;Receita;Financeiro;1;Área Externa;1;Juros;1;;4718880120.21;0.0;4718880120.21;4718880120.21
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;800605014;"RECEITAS DE JUROS DE CRÉDITOS A RECEBER EM MOEDAS ESTRANGEIRAS
+CONVÊNIO DE PAGAMENTOS E CRÉDITOS RECÍPROCOS - CCR
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS";800605014 - JUROS - CONTA A;Receita;Financeiro;1;Área Externa;1;Juros;1;;1067714.56;0.0;1067714.56;1067714.56
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8053059;"CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS
+RECEITAS DE JUROS SOBRE VENDA COM COMPROMISSO DE RECOMPRA EM MOEDAS ESTRANGEIRAS";8053059 - TÍTULOS EM MOEDAS ESTRANGEIRAS;Receita;Financeiro;1;Área Externa;1;Juros;1;;633380.59;0.0;633380.59;633380.59
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8105017;"RECEITAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+RECEITAS DE AJUSTE A VALOR JUSTO NAS OPERAÇÕES COM TÍTULOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";8105017 - TÍTULOS ESTRANGEIROS DE RENDA FIXA;Receita;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;70783521201.15;0.0;70783521201.15;70783521201.15
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;83010;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";83010 - RECEITAS DE CORREÇÃO CAMBIAL COM DEPÓSITOS À PRAZO EM INSTITUIÇÕES FINANCEIRAS EM MOEDAS ESTRANGEIRAS;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado credor da correção cambial sobre os depósitos a prazo em instituições financeiras em moedas estrangeiras.;18268922574.25;0.0;18268922574.25;18268922574.25
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;83034;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";83034 - RECEITAS DE CORREÇÃO CAMBIAL SOBRE OPERAÇÕES COMPROMISSADAS ATIVAS EM MOEDAS ESTRANGEIRAS;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado credor da correção cambial sobre as operações compromissadas ativas em moedas estrangeiras.;23168314392.49;0.0;23168314392.49;23168314392.49
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;83065;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";83065 - RECEITAS DE CORREÇÃO CAMBIAL SOBRE CRÉDITOS A RECEBER EM MOEDAS ESTRANGEIRAS;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado credor da correção cambial sobre os créditos a receber em moedas estrangeiras.;1331696584.61;0.0;1331696584.61;1331696584.61
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;83072;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";83072 - RECEITAS DE CORREÇÃO CAMBIAL SOBRE OPERAÇÕES COM OURO;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado credor da correção cambial sobre as operações com ouro.;16184672092.49;0.0;16184672092.49;16184672092.49
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;83539;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";83539 - RECEITAS DE CORREÇÃO CAMBIAL SOBRE OPERAÇÕES COMPROMISSADAS PASSIVAS EM MOEDAS ESTRANGEIRAS;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado credor da correção cambial sobre operações compromissadas passivas em moedas estrangeiras.;3534445073.53;0.0;3534445073.53;3534445073.53
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;83546;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";83546 - RECEITAS DE CORREÇÃO CAMBIAL SOBRE OPERAÇÕES PASSIVAS COM DERIVATIVOS EM MOEDAS ESTRANGEIRAS;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado credor da correção cambial sobre operações passivas com derivativos em moedas estrangeiras.;7991543.51;0.0;7991543.51;7991543.51
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;83560;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";83560 - RECEITAS DE CORREÇÃO CAMBIAL SOBRE  CRÉDITOS A PAGAR EM MOEDAS          ESTRANGEIRAS;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado credor da correção cambial sobre créditos a pagar em moedas estrangeiras.;3116087715.29;0.0;3116087715.29;3116087715.29
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;800680039;"RECEITAS DE JUROS DE CRÉDITOS A RECEBER EM MOEDAS ESTRANGEIRAS
+OPERAÇÕES DE EMPRÉSTIMO EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS";800680039 - PARTICIPAÇÃO NO NEW ARRANGEMENTS TO BORROW-NAB DO FMI - EMPRÉSTIMO DE RECURSOS AO FUNDO;Receita;Financeiro;1;Área Externa;1;Juros;1;;331309.42;0.0;331309.42;331309.42
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899025911;"ÁREA DE OPERAÇÕES DAS RESERVAS INTERNACIONAIS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899025911 - OUTRAS - NO PAÍS - NÃO PRIMÁRIAS;Receita;Financeiro;1;Área Externa;1;Demais receitas;4;;0.17;0.0;0.17;0.17
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;899029931;"ÁREA DE OPERAÇÕES COM ORGANISMOS E ACORDOS INTERNACIONAIS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DIVERSAS";899029931 - OUTRAS - NO EXTERIOR - NÃO PRIMÁRIAS;Receita;Financeiro;1;Área Externa;1;Demais receitas;4;;208228.98;0.0;208228.98;208228.98
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8305013;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+RECEITAS DE CORREÇÃO CAMBIAL SOBRE OPERAÇÕES COM TÍTULOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";8305013 - TÍTULOS ESTRANGEIROS DE RENDA FIXA;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;;442203148170.93;0.0;442203148170.93;442203148170.93
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;800610016;"RECEITAS DE JUROS DE CRÉDITOS A RECEBER EM MOEDAS ESTRANGEIRAS
+SISTEMA DE PAGAMENTOS EM MOEDAS LOCAIS - SML
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS";800610016 - JUROS SOBRE MARGEM OPERACIONAL CONCEDIDA;Receita;Financeiro;1;Área Externa;1;Juros;1;;38407.96;0.0;38407.96;38407.96
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;800371056;"EMPRÉSTIMO
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS
+RECEITAS DE JUROS SOBRE COMPRA COM COMPROMISSO DE REVENDA EM MOEDAS ESTRANGEIRAS";800371056 - TÍTULOS;Receita;Financeiro;1;Área Externa;1;Juros;1;;19563227.78;0.0;19563227.78;19563227.78
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;800030108;"DEPÓSITOS A CURTÍSSIMO PRAZO
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS
+RECEITAS DE JUROS SOBRE DISPONIBILIDADES EM MOEDAS ESTRANGEIRAS";800030108 - DEPÓSITOS LIVRES SEM APLICAÇÃO AUTOMÁTICA;Receita;Financeiro;1;Área Externa;1;Juros;1;;387309247.4;0.0;387309247.4;387309247.4
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;800030115;"DEPÓSITOS A CURTÍSSIMO PRAZO
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS
+RECEITAS DE JUROS SOBRE DISPONIBILIDADES EM MOEDAS ESTRANGEIRAS";800030115 - DEPÓSITOS LIVRES COM APLICAÇÃO AUTOMÁTICA;Receita;Financeiro;1;Área Externa;1;Juros;1;;1406040262.23;0.0;1406040262.23;1406040262.23
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;800105105;"RECEITAS DE JUROS SOBRE DEPÓSITOS À PRAZO EM INSTITUIÇÕES FINANCEIRAS EM MOEDAS ESTRANGEIRAS
+DEPÓSITOS À PRAZO FIXO EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS";800105105 - DEPÓSITOS LIVRES;Receita;Financeiro;1;Área Externa;1;Juros;1;;3133027895.62;0.0;3133027895.62;3133027895.62
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;83027;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";83027 - RECEITAS DE CORREÇÃO CAMBIAL SOBRE RECURSOS EM MOEDAS ESTRANGEIRAS SOB ADMINISTRAÇÃO EXTERNA;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado credor da correção cambial sobre os recursos em moedas estrangeiras sob administração externa.;21127723250.78;0.0;21127723250.78;21127723250.78
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8104207;"RECEITAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+RECEITAS DE OPERAÇÕES COM DERIVATIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";8104207 - AJUSTE A VALOR JUSTO NAS OPERAÇÕES  DE SWAP DE MOEDAS NO MERCADO        EXTERNO;Receita;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;17720820.29;0.0;17720820.29;17720820.29
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8102106;"RECEITAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+RECEITAS DE AJUSTE A VALOR JUSTO SOBRE RECURSOS EM MOEDAS ESTRANGEIRAS SOB ADMINISTRAÇÃO EXTERNA
+CONTAS DE RESULTADO - RECEITAS";8102106 - RECURSOS APLICADOS EM FUNDO DE INVESTIMENTOS ADMINISTRADO PELO BIS;Receita;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;8538848902.7;0.0;8538848902.7;8538848902.7
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8309019;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+RECEITAS DE CORREÇÃO CAMBIAL SOBRE OUTROS ATIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";8309019 - NÃO PRIMÁRIAS;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;;60943.83;0.0;60943.83;60943.83
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;800020723;"DEPÓSITOS À VISTA NO EXTERIOR
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS
+RECEITAS DE JUROS SOBRE DISPONIBILIDADES EM MOEDAS ESTRANGEIRAS";800020723 - VINCULADOS À MARGEM DE GARANTIA - OPERAÇÕES COM FUTUROS;Receita;Financeiro;1;Área Externa;1;Juros;1;;1922424.96;0.0;1922424.96;1922424.96
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8107053;"RECEITAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+RECEITAS DE AJUSTE A VALOR JUSTO NAS OPERAÇÕES COM OURO
+CONTAS DE RESULTADO - RECEITAS";8107053 - ESTOQUE DE OURO;Receita;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;15367824401.98;0.0;15367824401.98;15367824401.98
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8003054;"CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS
+RECEITAS DE JUROS SOBRE COMPRA COM COMPROMISSO DE REVENDA EM MOEDAS ESTRANGEIRAS";8003054 - TÍTULOS EM MOEDAS ESTRANGEIRAS - NÃO RESIDENTE;Receita;Financeiro;1;Área Externa;1;Juros;1;;3575223619.1;0.0;3575223619.1;3575223619.1
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8005014;"RECEITAS DE JUROS SOBRE OPERAÇÕES COM TÍTULOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS";8005014 - TÍTULOS ESTRANGEIROS DE RENDA FIXA;Receita;Financeiro;1;Área Externa;1;Juros;1;;42073628079.0;0.0;42073628079.0;42073628079.0
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;810405101;"AJUSTES A VALOR JUSTO DAS POSIÇÕES NAS OPERAÇÕES COM FUTUROS EM MOEDAS ESTRANGEIRAS
+RECEITAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+RECEITAS DE OPERAÇÕES COM DERIVATIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";810405101 - FUTUROS;Receita;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;8785376.56;0.0;8785376.56;8785376.56
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;810410031;"RECEITAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+RECEITAS DE OPERAÇÕES COM DERIVATIVOS EM MOEDAS ESTRANGEIRAS
+DIFERENÇAS POSITIVAS DE COTAÇÃO NAS OPERAÇÕES DE FORWARD EM MOEDAS ESTRANGEIRAS NO MERCADO EXTERNO
+CONTAS DE RESULTADO - RECEITAS";810410031 - FORWARD DE MOEDAS ESTRANGEIRAS;Receita;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;8834427.92;0.0;8834427.92;8834427.92
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;83003;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";83003 - RECEITAS DE CORREÇÃO CAMBIAL SOBRE DISPONIBILIDADES EM MOEDAS ESTRANGEIRAS;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado credor da correção cambial sobre as disponibilidades em moedas estrangeiras do Banco Central.;38954411095.29;0.0;38954411095.29;38954411095.29
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;83508;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";83508 - RECEITAS DE CORREÇÃO CAMBIAL SOBRE OBRIGAÇÕS POR OPERAÇÕES A LIQUIDAR EM MOEDAS ESTRANGEIRAS;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;Registra o resultado credor da correção cambial sobre obrigações por operações a liquidar em moedas estrangeiras. Seus subtítulos indicam o tipo da operação.;995473044.48;0.0;995473044.48;995473044.48
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8359021;"RECEITAS DE CORREÇAO CAMBIAL SOBRE ATIVOS E PASSIVOS EM MOEDAS ESTRANGEIRAS
+RECEITAS DE CORREÇÃO CAMBIAL SOBRE OUTROS PASSIVOS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";8359021 - NÃO PRIMÁRIAS;Receita;Financeiro;1;Área Externa;1;Correção cambial;3;;461747.97;0.0;461747.97;461747.97
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;810410172;"RECEITAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDAS ESTRANGEIRAS
+RECEITAS DE OPERAÇÕES COM DERIVATIVOS EM MOEDAS ESTRANGEIRAS
+DIFERENÇAS POSITIVAS DE COTAÇÃO NAS OPERAÇÕES DE FORWARD EM MOEDAS ESTRANGEIRAS NO MERCADO EXTERNO
+CONTAS DE RESULTADO - RECEITAS";810410172 - TO BE ANOUNCED - TBA;Receita;Financeiro;1;Área Externa;1;Ajuste a valor justo;2;;4276605886.91;0.0;4276605886.91;4276605886.91
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;800680046;"RECEITAS DE JUROS DE CRÉDITOS A RECEBER EM MOEDAS ESTRANGEIRAS
+OPERAÇÕES DE EMPRÉSTIMO EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDAS ESTRANGEIRAS";800680046 - PARTICIPAÇÃO NO POVERTY REDUCTION AND GROWTH TRUST - PRGT DO FMI - EMPRÉSTIMO DE RECURSOS AO FUNDO;Receita;Financeiro;1;Área Externa;1;Juros;1;;198542795.47;0.0;198542795.47;198542795.47
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8412054;"RECEITAS DE JUROS SOBRE CRÉDITOS COM O GOVERNO FEDERAL EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8412054 - RESULTADO NEGATIVO DO BANCO CENTRAL;Receita;Financeiro;1;Tesouro Nacional;4;Juros;1;Registra a remuneração incidente sobre os resultados negativos do Banco Central, registrados no título contábil 1205-0, que, de acordo com o art. 7º, § 1º da Lei Complementar nº 101, de 4 de maio de 2000, constituem obrigação do Tesouro Nacional.;12240779539.76;0.0;12240779539.76;12240779539.76
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;841680036;"OPERAÇÕES DE EMPRÉSTIMO EM MOEDA LOCAL
+RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";841680036 - LINHA FINANCEIRA DE LIQUIDEZ - LINHA DE LIQUIDEZ IMEDIATA - LFL-LLI;Receita;Financeiro;1;Área Bancária;3;Juros;1;;7515269.23;0.0;125.56;125.56
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;841680043;"OPERAÇÕES DE EMPRÉSTIMO EM MOEDA LOCAL
+RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";841680043 - LINHA FINANCEIRA DE LIQUIDEZ - LINHA DE LIQUIDEZ A TERMO - LFL-LLT;Receita;Financeiro;1;Área Bancária;3;Juros;1;;1290484730.77;0.0;21560.54;21560.54
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8986504;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DE MULTAS DE MORA";8986504 - INSTITUIÇÕES SOB REGIMES DE RESOLUÇÃO;Receita;Financeiro;1;Outras Operações;6;Demais receitas;4;;63707621.76;0.0;63707621.76;63707621.76
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8590017;"RECEITAS COM POSIÇÃO DE NEGOCIAÇÃO EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE AJUSTE A VALOR JUSTO DE OUTROS ATIVOS EM MOEDA LOCAL";8590017 - PARTICIPAÇÕES SOCIETÁRIAS;Receita;Financeiro;1;Outras Operações;6;Ajuste a valor justo;2;;513.59;0.0;513.59;513.59
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8416500;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8416500 - INSTITUIÇÕES SOB REGIMES DE RESOLUÇÃO;Receita;Financeiro;1;Outras Operações;6;Juros;1;;5025892213.86;0.0;5025892213.86;5025892213.86
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;87690;"RECEITAS COM CORREÇÃO CAMBIAL DE OPERAÇÕES REFERENCIADAS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";87690 - RECEITAS DE CORREÇÃO CAMBIAL SOBRE OUTROS PASSIVOS EM MOEDA LOCAL;Receita;Financeiro;1;Outras Operações;6;Correção cambial;3;Registra o resultado credor da correção cambial sobre outros passivos em moeda local.;1631727.34;0.0;1631727.34;1631727.34
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;890001020;"RECEITAS DE PARTICIPAÇÕES SOCIETÁRIAS EM MOEDA LOCAL
+AÇÕES
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";890001020 - DIVIDENDOS;Receita;Financeiro;1;Outras Operações;6;Demais receitas;4;;40.1;0.0;40.1;40.1
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;87652;"RECEITAS COM CORREÇÃO CAMBIAL DE OPERAÇÕES REFERENCIADAS EM MOEDAS ESTRANGEIRAS
+CONTAS DE RESULTADO - RECEITAS";87652 - RECEITAS DE CORREÇÃO CAMBIAL SOBRE  HAVERES DE ORGANISMOS FINANCEIROS INTERNACIONAIS EM MOEDA LOCAL;Receita;Financeiro;1;Outras Operações;6;Correção cambial;3;Registra o resultado credor da correção cambial sobre haveres de organismos financeiros internacionais em moeda local.;2341621.85;0.0;2341621.85;2341621.85
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;841990135;"DIVERSAS
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL
+RECEITAS DE JUROS SOBRE OUTROS ATIVOS EM MOEDA LOCAL";841990135 - ÁREA DO DEAFI;Receita;Financeiro;1;Outras Operações;6;Indefinido;11;;9830.76;0.0;9830.76;9830.76
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;890504046;"RECEITAS DE ENCARGOS E CUSTOS FINANCEIROS EM MOEDA LOCAL
+ÁREA BANCÁRIA E DE SISTEMA DE PAGAMENTOS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";890504046 - DEFICIÊNCIA NO DIRECIONAMENTO DE RECURSOS;Receita;Financeiro;1;Outras Operações;6;Demais receitas;4;;153014.61;0.0;153014.61;153014.61
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8416218;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8416218 - CRÉDITOS IMOBILIÁRIOS;Receita;Financeiro;1;Outras Operações;6;Juros;1;;-249114.04;0.0;-249114.04;-249114.04
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;841630017;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CRÉDITOS COM SERVIDORES
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";841630017 - VALORES PAGOS A MAIOR;Receita;Financeiro;1;Outras Operações;6;Juros;1;;233448.94;0.0;233448.94;233448.94
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;841990159;"DIVERSAS
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL
+RECEITAS DE JUROS SOBRE OUTROS ATIVOS EM MOEDA LOCAL";841990159 - OUTROS CRÉDITOS NÃO PARCELADOS - ÁREA DA PROCURADORIA-GERAL;Receita;Financeiro;1;Outras Operações;6;Juros;1;;14991900.64;0.0;14991900.64;14991900.64
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8905028;"RECEITAS DE ENCARGOS E CUSTOS FINANCEIROS EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";8905028 - ÁREA DE MONITORAMENTO DO SISTEMA    FINANCEIRO E DE GESTÃO DA           INFORMAÇÃO - CANCELAMENTO OU BAIXA  DA POSIÇÃO DE CÂMBIO;Receita;Financeiro;1;Outras Operações;6;Demais receitas;4;;172560390.94;0.0;172560390.94;172560390.94
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;890504015;"RECEITAS DE ENCARGOS E CUSTOS FINANCEIROS EM MOEDA LOCAL
+ÁREA BANCÁRIA E DE SISTEMA DE PAGAMENTOS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";890504015 - DEFICIÊNCIA EM RECOLHIMENTOS COMPULSÓRIOS;Receita;Financeiro;1;Outras Operações;6;Demais receitas;4;;5627344.89;0.0;5627344.89;5627344.89
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;890504022;"RECEITAS DE ENCARGOS E CUSTOS FINANCEIROS EM MOEDA LOCAL
+ÁREA BANCÁRIA E DE SISTEMA DE PAGAMENTOS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";890504022 - DEFICIÊNCIA NA MÉDIA DO RECOLHIMENTO COMPULSÓRIO SOBRE RECURSOS À VISTA;Receita;Financeiro;1;Outras Operações;6;Demais receitas;4;;301912.31;0.0;301912.31;301912.31
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;890504039;"RECEITAS DE ENCARGOS E CUSTOS FINANCEIROS EM MOEDA LOCAL
+ÁREA BANCÁRIA E DE SISTEMA DE PAGAMENTOS
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";890504039 - DEFICIÊNCIA DIÁRIA NO RECOLHIMENTO COMPULSÓRIO SOBRE RECURSOS À VISTA;Receita;Financeiro;1;Outras Operações;6;Demais receitas;4;;283906.15;0.0;283906.15;283906.15
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8416081;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";8416081 - ENCARGOS E CUSTOS FINANCEIROS;Receita;Financeiro;1;Outras Operações;6;Juros;1;;907598.6;0.0;907598.6;907598.6
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;8986085;"CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS
+RECEITAS DE MULTAS DE MORA";8986085 - SOBRE ENCARGOS FINANCEIROS;Receita;Financeiro;1;Outras Operações;6;Demais receitas;4;;6287.5;0.0;6287.5;6287.5
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;890505100;"RECEITAS DE ENCARGOS E CUSTOS FINANCEIROS EM MOEDA LOCAL
+ÁREA DE OPERAÇÕES DE CRÉDITO RURAL E DO PROAGRO
+CONTAS DE RESULTADO - RECEITAS
+OUTRAS RECEITAS";890505100 - DEFICIÊNCIA NO CUMPRIMENTO DAS EXIGIBILIDADES DE DIRECIONAMENTO DE RECURSOS PARA APLICAÇÃO EM CRÉDITO RURAL;Receita;Financeiro;1;Outras Operações;6;Demais receitas;4;;7189374.56;0.0;7189374.56;7189374.56
+2024;401300000;DEAFI;DIRAD;40 BRASILIA-DF;841630062;"RECEITAS DE JUROS COM CRÉDITOS A RECEBER EM MOEDA LOCAL
+CRÉDITOS COM SERVIDORES
+CONTAS DE RESULTADO - RECEITAS
+RECEITAS DE JUROS EM MOEDA LOCAL";841630062 - SERVIDORES, APOSENTADOS E PENSIONISTAS EXCLUÍDOS DA FOLHA;Receita;Financeiro;1;Outras Operações;6;Juros;1;;2064.88;0.0;2064.88;2064.88
